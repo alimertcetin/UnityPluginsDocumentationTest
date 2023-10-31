@@ -1,3 +1,0 @@
-# XIV-Stats
-
-- WIP

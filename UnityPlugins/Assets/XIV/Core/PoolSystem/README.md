@@ -1,4 +1,0 @@
-# XIV-PoolSystem
-
-- Dependencies
-  - None

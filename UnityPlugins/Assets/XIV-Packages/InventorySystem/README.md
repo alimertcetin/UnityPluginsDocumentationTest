@@ -1,2 +1,0 @@
-# XIV-InventorySystem
-

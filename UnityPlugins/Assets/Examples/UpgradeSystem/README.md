@@ -1,3 +1,0 @@
-# XIV-UpgradeSystem
-
-- WIP
