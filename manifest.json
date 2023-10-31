@@ -3,6 +3,1966 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Examples.GridSystem.GridTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Examples.GridSystem.GridTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Examples.GridSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Examples.GridSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Examples.SplineFollower.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Examples.SplineFollower.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Examples.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Examples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.BoostSystem.BoostData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.BoostSystem.BoostData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.BoostSystem.MultiStatBooster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.BoostSystem.MultiStatBooster.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.BoostSystem.StatBooster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.BoostSystem.StatBooster.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.BoostSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.BoostSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.ButtonAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.ButtonAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Collections.DynamicArray-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Collections.DynamicArray-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Collections.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Collections.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.DisplayWithoutEdit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.DisplayWithoutEdit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.ArrayExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.ArrayExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.Collider2DIListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.Collider2DIListExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.ColliderIListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.ColliderIListExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.ColorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.ColorExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.ComponentIListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.ComponentIListExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.IListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.IListExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.StringHtmlTagExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.StringHtmlTagExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.Vector3Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.Vector3Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.VectorCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.VectorCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.BoxCollider2DParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.BoxCollider2DParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.CapsuleCollider2DParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.CapsuleCollider2DParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.CircleColliderParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.CircleColliderParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.Rigidbody2DParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.Rigidbody2DParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Tools.ColliderConverter.ColliderConverter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Tools.ColliderConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Tools.ColliderConverter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.Drivers.TweenDriver-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.Drivers.TweenDriver-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.Drivers.TweenDriver-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.Drivers.TweenDriver-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.Drivers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.Drivers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.ITween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.ITween.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.OtherTweens.CallbackTween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.OtherTweens.CallbackTween.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.OtherTweens.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.OtherTweens.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.TweenTimeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.TweenTimeline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.XIVTweenBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.XIVTweenBuilder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.XIVTweenExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.XIVTweenExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.TweenSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.TweenSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.ArithmeticOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.ArithmeticOperation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.ArithmeticOperationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.ArithmeticOperationType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.ArrayUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.ArrayUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.ClassGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.ClassGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.EasingFunction.Ease.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.EasingFunction.Ease.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.EasingFunction.Function.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.EasingFunction.Function.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.EasingFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.EasingFunction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.TextureUtils.Scale.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.TextureUtils.Scale.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.TextureUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.TextureUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.Timer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.Utils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.BezierMath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.BezierMath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.BezierMath4D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.BezierMath4D.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.FrustumMath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.FrustumMath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.LineMath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.LineMath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.SplineMath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.SplineMath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.Vec3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.Vec3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.XIVMathInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.XIVMathInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.XIVMathf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.XIVMathf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.XIVMath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.XIVMath.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.EnumSOBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.EnumSOBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.ValueSOs.FloatReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.ValueSOs.FloatReference.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.ValueSOs.FloatSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.ValueSOs.FloatSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.ValueSOs.ValueReference-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.ValueSOs.ValueReference-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.ValueSOs.ValueSO-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.ValueSOs.ValueSO-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.ValueSOs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.ValueSOs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.DataTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.DataTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.Events.InvokeAfterEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.Events.InvokeAfterEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.Events.InvokeForSecondsEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.Events.InvokeForSecondsEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.Events.InvokeUntilEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.Events.InvokeUntilEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.Events.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent-4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent-5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent-6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent-6.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.IEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.IEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.XIVEventSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.XIVEventSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.EventSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.EventSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.GridSystems.CellData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.GridSystems.CellData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.GridSystems.GridXY.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.GridSystems.GridXY.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.GridSystems.IGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.GridSystems.IGrid.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.GridSystems.IGridListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.GridSystems.IGridListener.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.GridSystems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.GridSystems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.PoolSystem.IPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.PoolSystem.IPool-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.PoolSystem.IPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.PoolSystem.IPool.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.PoolSystem.XIVPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.PoolSystem.XIVPool-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.PoolSystem.XIVPoolSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.PoolSystem.XIVPoolSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.PoolSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.PoolSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Spline.BezierSpline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Spline.BezierSpline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Spline.Utils.SplineUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Spline.Utils.SplineUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Spline.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Spline.Utils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Spline.XIVEditor.BezierSplineInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Spline.XIVEditor.BezierSplineInspector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Spline.XIVEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Spline.XIVEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Spline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Spline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Stats.Stat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Stats.Stat.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Stats.StatTypeSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Stats.StatTypeSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.Stats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.Stats.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.TweenSystem.ChangeColorTween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.TweenSystem.ChangeColorTween.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.TweenSystem.MoveTowardsTween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.TweenSystem.MoveTowardsTween.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.TweenSystem.TweenTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.TweenSystem.TweenTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.TweenSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.TweenSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.DataStructures.SerializedDictionaryBase-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.DataStructures.SerializedDictionaryBase-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.DataStructures.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.DataStructures.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Editor.UpgradeDBSOEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Editor.UpgradeDBSOEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Editor.UpgradeSOEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Editor.UpgradeSOEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Editor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.CollectableUpgrade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.CollectableUpgrade.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.DamageUpgradeSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.DamageUpgradeSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.Enemy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.Enemy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.EnemyUpgrades.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.EnemyUpgrades.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.PlayerUpgrade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.PlayerUpgrade.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.SpeedUpgradeSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.SpeedUpgradeSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.UpgradeUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.UpgradeUser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Examples.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Examples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.IUpgrade-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.IUpgrade-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.IUpgradeContainer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.IUpgradeContainer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.IUpgradeDB-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.IUpgradeDB-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.Constants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeContainer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeContainer-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeDBSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeDBSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeSO-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeSO-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.UpgradeSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Integration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Integration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Utils.UpgradeUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Utils.UpgradeUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.Utils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.UpgradeSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.UpgradeSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.CodeGeneration.AnimationConstantsGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.CodeGeneration.AnimationConstantsGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.CodeGeneration.AudioMixerConstantsGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.CodeGeneration.AudioMixerConstantsGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.CodeGeneration.PhysicsConstantsGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.CodeGeneration.PhysicsConstantsGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.CodeGeneration.ShaderConstantsGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.CodeGeneration.ShaderConstantsGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.CodeGeneration.TagConstantsGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.CodeGeneration.TagConstantsGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.CodeGeneration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.CodeGeneration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.DisplayWithoutEditDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.DisplayWithoutEditDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.FilePaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.FilePaths.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.MenuItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.MenuItems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.Utils.AssetUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.Utils.AssetUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.Utils.EditorUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.Utils.EditorUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.Utils.ReflectionUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.Utils.ReflectionUtils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.Utils.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.XIVDefaulEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.XIVDefaulEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.XIVEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.XIVEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIVPlugins.XIVEditor.FilePaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIVPlugins.XIVEditor.FilePaths.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIVPlugins.XIVEditor.MenuItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIVPlugins.XIVEditor.MenuItems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIVPlugins.XIVEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIVPlugins.XIVEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.Extensions.InventoryItemExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.Extensions.InventoryItemExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.IInventoryListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.IInventoryListener.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.Inventory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.Inventory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.InventoryChange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.InventoryChange.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.InventoryHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.InventoryHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.InventoryItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.InventoryItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.InventoryItemChange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.InventoryItemChange.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.InventoryManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.InventoryManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ItemBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ItemBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ReadOnlyInventoryItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ReadOnlyInventoryItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.SaveIntegration.InventorySaveHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.SaveIntegration.InventorySaveHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.SaveIntegration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.SaveIntegration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.InventorySO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.InventorySO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemDatabaseSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemDatabaseSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemSO-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemSO-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemSOData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.ItemSOData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.MenuPaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.MenuPaths.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.ScriptableObjects.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.TempArray-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.TempArray-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.InventorySystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.InventorySystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.AsyncSaver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.AsyncSaver.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.Editor.MenuItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.Editor.MenuItems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.Editor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.ISavable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.ISavable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.SavableEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.SavableEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.SaveManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.SaveManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.SaveSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.SaveSystem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.Saver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.Saver.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.XIVSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.XIVSerializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.SaveSystems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.SaveSystems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.BoolChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.BoolChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.FloatChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.FloatChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.IntChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.IntChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.TransformChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.TransformChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.VoidChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.VoidChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.Channels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.Channels.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.MenuPaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.MenuPaths.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.ScriptableObjects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.ScriptableObjects.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/XIV_Packages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/XIV_Packages.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {

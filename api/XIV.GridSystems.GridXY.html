@@ -1,0 +1,591 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Class GridXY
+ </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Class GridXY
+ ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/alimertcetin/UnityPluginsDocumentationTest/new/main/apiSpec/new?filename=XIV_GridSystems_GridXY.md&amp;value=---%0Auid%3A%20XIV.GridSystems.GridXY%0Asummary%3A%20&#39;*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax&#39;%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+  </head>
+
+  <script type="module" src="./../public/docfx.min.js"></script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="ManagedReference">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="XIV.GridSystems.GridXY">
+
+
+
+  <h1 id="XIV_GridSystems_GridXY" data-uid="XIV.GridSystems.GridXY" class="text-break">
+    Class GridXY
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L7"><i class="bi bi-code-slash"></i></a>
+  </h1>
+
+  <div class="facts text-secondary">
+    <dl><dt>Namespace</dt><dd><a class="xref" href="XIV.html">XIV</a>.<a class="xref" href="XIV.GridSystems.html">GridSystems</a></dd></dl>
+  <dl><dt>Assembly</dt><dd>XIV.Packages.dll</dd></dl>
+  </div>
+
+  <div class="markdown summary"></div>
+  <div class="markdown conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class GridXY : IGrid</code></pre>
+  </div>
+
+
+
+
+  <dl class="typelist inheritance">
+    <dt>Inheritance</dt>
+    <dd>
+      <div><span class="xref">object</span></div>
+      <div><span class="xref">GridXY</span></div>
+    </dd>
+  </dl>
+
+  <dl class="typelist implements">
+    <dt>Implements</dt>
+    <dd>
+      <div><a class="xref" href="XIV.GridSystems.IGrid.html">IGrid</a></div>
+    </dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <h2 class="section" id="constructors">Constructors
+</h2>
+
+
+  <a id="XIV_GridSystems_GridXY__ctor_" data-uid="XIV.GridSystems.GridXY.#ctor*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY__ctor_Vector3_Vector2_Vector2Int_" data-uid="XIV.GridSystems.GridXY.#ctor(Vector3,Vector2,Vector2Int)">
+  GridXY(Vector3, Vector2, Vector2Int)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L52"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GridXY(Vector3 gridCenter, Vector2 areaSize, Vector2Int cellCount)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>gridCenter</code> <span class="xref">Vector3</span></dt>
+    <dd></dd>
+    <dt><code>areaSize</code> <span class="xref">Vector2</span></dt>
+    <dd></dd>
+    <dt><code>cellCount</code> <span class="xref">Vector2Int</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <h2 class="section" id="properties">Properties
+</h2>
+
+
+  <a id="XIV_GridSystems_GridXY_AreaSize_" data-uid="XIV.GridSystems.GridXY.AreaSize*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_AreaSize" data-uid="XIV.GridSystems.GridXY.AreaSize">
+  AreaSize
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L19"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Vector2 AreaSize { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">Vector2</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_CellCount_" data-uid="XIV.GridSystems.GridXY.CellCount*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_CellCount" data-uid="XIV.GridSystems.GridXY.CellCount">
+  CellCount
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L29"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Vector2Int CellCount { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">Vector2Int</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_GridCenter_" data-uid="XIV.GridSystems.GridXY.GridCenter*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_GridCenter" data-uid="XIV.GridSystems.GridXY.GridCenter">
+  GridCenter
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L9"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Vector3 GridCenter { get; set; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">Vector3</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_IsDirty_" data-uid="XIV.GridSystems.GridXY.IsDirty*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_IsDirty" data-uid="XIV.GridSystems.GridXY.IsDirty">
+  IsDirty
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L39"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsDirty { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">bool</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <h2 class="section" id="methods">Methods
+</h2>
+
+
+  <a id="XIV_GridSystems_GridXY_AddListener_" data-uid="XIV.GridSystems.GridXY.AddListener*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_AddListener_XIV_GridSystems_IGridListener_" data-uid="XIV.GridSystems.GridXY.AddListener(XIV.GridSystems.IGridListener)">
+  AddListener(IGridListener)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L104"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AddListener(IGridListener listener)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>listener</code> <a class="xref" href="XIV.GridSystems.IGridListener.html">IGridListener</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_GetCells_" data-uid="XIV.GridSystems.GridXY.GetCells*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_GetCells" data-uid="XIV.GridSystems.GridXY.GetCells">
+  GetCells()
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L172"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DynamicArray&lt;CellData&gt; GetCells()</code></pre>
+  </div>
+
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="XIV.Core.Collections.DynamicArray-1.html">DynamicArray</a>&lt;<a class="xref" href="XIV.GridSystems.CellData.html">CellData</a>&gt;</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_GetCells_" data-uid="XIV.GridSystems.GridXY.GetCells*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_GetCells_Vector3_Vector2_Vector2Int_" data-uid="XIV.GridSystems.GridXY.GetCells(Vector3,Vector2,Vector2Int)">
+  GetCells(Vector3, Vector2, Vector2Int)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L177"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static DynamicArray&lt;CellData&gt; GetCells(Vector3 gridCenter, Vector2 areaSize, Vector2Int cellCount)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>gridCenter</code> <span class="xref">Vector3</span></dt>
+    <dd></dd>
+    <dt><code>areaSize</code> <span class="xref">Vector2</span></dt>
+    <dd></dd>
+    <dt><code>cellCount</code> <span class="xref">Vector2Int</span></dt>
+    <dd></dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="XIV.Core.Collections.DynamicArray-1.html">DynamicArray</a>&lt;<a class="xref" href="XIV.GridSystems.CellData.html">CellData</a>&gt;</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_GetIndexByWorldPos_" data-uid="XIV.GridSystems.GridXY.GetIndexByWorldPos*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_GetIndexByWorldPos_Vector3_" data-uid="XIV.GridSystems.GridXY.GetIndexByWorldPos(Vector3)">
+  GetIndexByWorldPos(Vector3)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L116"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int GetIndexByWorldPos(Vector3 worldPos)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>worldPos</code> <span class="xref">Vector3</span></dt>
+    <dd></dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><span class="xref">int</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_GetNeighbourIndices_" data-uid="XIV.GridSystems.GridXY.GetNeighbourIndices*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_GetNeighbourIndices_System_Int32_" data-uid="XIV.GridSystems.GridXY.GetNeighbourIndices(System.Int32)">
+  GetNeighbourIndices(int)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L141"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DynamicArray&lt;int&gt; GetNeighbourIndices(int centerIndex)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>centerIndex</code> <span class="xref">int</span></dt>
+    <dd></dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="XIV.Core.Collections.DynamicArray-1.html">DynamicArray</a>&lt;<span class="xref">int</span>&gt;</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_GetNeighbourIndices_" data-uid="XIV.GridSystems.GridXY.GetNeighbourIndices*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_GetNeighbourIndices_Vector3_" data-uid="XIV.GridSystems.GridXY.GetNeighbourIndices(Vector3)">
+  GetNeighbourIndices(Vector3)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L166"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DynamicArray&lt;int&gt; GetNeighbourIndices(Vector3 worldPos)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>worldPos</code> <span class="xref">Vector3</span></dt>
+    <dd></dd>
+  </dl>
+
+  <h4 class="section">Returns</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="XIV.Core.Collections.DynamicArray-1.html">DynamicArray</a>&lt;<span class="xref">int</span>&gt;</dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_RebuildIfDirty_" data-uid="XIV.GridSystems.GridXY.RebuildIfDirty*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_RebuildIfDirty" data-uid="XIV.GridSystems.GridXY.RebuildIfDirty">
+  RebuildIfDirty()
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L85"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RebuildIfDirty()</code></pre>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a id="XIV_GridSystems_GridXY_RemoveListener_" data-uid="XIV.GridSystems.GridXY.RemoveListener*"></a>
+
+  <h3 id="XIV_GridSystems_GridXY_RemoveListener_XIV_GridSystems_IGridListener_" data-uid="XIV.GridSystems.GridXY.RemoveListener(XIV.GridSystems.IGridListener)">
+  RemoveListener(IGridListener)
+  <a class="header-action link-secondary" title="View source" href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L110"><i class="bi bi-code-slash"></i></a>
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RemoveListener(IGridListener listener)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>listener</code> <a class="xref" href="XIV.GridSystems.IGridListener.html">IGridListener</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/alimertcetin/UnityPluginsDocumentationTest/blob/main/UnityPlugins/Assets/XIV-Packages/GridSystem/GridXY.cs/#L7" class="edit-link">Edit this page</a>
+        </div>
+
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
