@@ -14,7 +14,7 @@
       "includePrivateMembers": false,
       "disableGitFeatures": false,
       "disableDefaultFilter": false,
-      "noRestore": true,
+      "noRestore": false,
       "namespaceLayout": "nested",
       "memberLayout": "samePage",
       "enumSortOrder": "alphabetic",
