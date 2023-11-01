@@ -400,13 +400,13 @@ references:
   fullName.vb: XIV.Core.Collections.DynamicArray(Of T).New()
   nameWithType: DynamicArray<T>.DynamicArray()
   nameWithType.vb: DynamicArray(Of T).New()
-- uid: XIV.Core.Collections.DynamicArray`1.#ctor(IEnumerable{`0})
+- uid: XIV.Core.Collections.DynamicArray`1.#ctor(System.Collections.Generic.IEnumerable{`0})
   name: DynamicArray(IEnumerable<T>)
-  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1__ctor_IEnumerable__0__
-  commentId: M:XIV.Core.Collections.DynamicArray`1.#ctor(IEnumerable{`0})
+  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1__ctor_System_Collections_Generic_IEnumerable__0__
+  commentId: M:XIV.Core.Collections.DynamicArray`1.#ctor(System.Collections.Generic.IEnumerable{`0})
   name.vb: New(IEnumerable(Of T))
-  fullName: XIV.Core.Collections.DynamicArray<T>.DynamicArray(IEnumerable<T>)
-  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).New(IEnumerable(Of T))
+  fullName: XIV.Core.Collections.DynamicArray<T>.DynamicArray(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).New(System.Collections.Generic.IEnumerable(Of T))
   nameWithType: DynamicArray<T>.DynamicArray(IEnumerable<T>)
   nameWithType.vb: DynamicArray(Of T).New(IEnumerable(Of T))
 - uid: XIV.Core.Collections.DynamicArray`1.#ctor(System.Int32)
@@ -445,13 +445,13 @@ references:
   fullName.vb: XIV.Core.Collections.DynamicArray(Of T).Add
   nameWithType: DynamicArray<T>.Add
   nameWithType.vb: DynamicArray(Of T).Add
-- uid: XIV.Core.Collections.DynamicArray`1.AddRange(IEnumerable{`0})
+- uid: XIV.Core.Collections.DynamicArray`1.AddRange(System.Collections.Generic.IEnumerable{`0})
   name: AddRange(IEnumerable<T>)
-  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1_AddRange_IEnumerable__0__
-  commentId: M:XIV.Core.Collections.DynamicArray`1.AddRange(IEnumerable{`0})
+  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1_AddRange_System_Collections_Generic_IEnumerable__0__
+  commentId: M:XIV.Core.Collections.DynamicArray`1.AddRange(System.Collections.Generic.IEnumerable{`0})
   name.vb: AddRange(IEnumerable(Of T))
-  fullName: XIV.Core.Collections.DynamicArray<T>.AddRange(IEnumerable<T>)
-  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).AddRange(IEnumerable(Of T))
+  fullName: XIV.Core.Collections.DynamicArray<T>.AddRange(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).AddRange(System.Collections.Generic.IEnumerable(Of T))
   nameWithType: DynamicArray<T>.AddRange(IEnumerable<T>)
   nameWithType.vb: DynamicArray(Of T).AddRange(IEnumerable(Of T))
 - uid: XIV.Core.Collections.DynamicArray`1.AddRange*
@@ -550,13 +550,13 @@ references:
   fullName.vb: XIV.Core.Collections.DynamicArray(Of T).Count
   nameWithType: DynamicArray<T>.Count
   nameWithType.vb: DynamicArray(Of T).Count
-- uid: XIV.Core.Collections.DynamicArray`1.Exists(Func{`0,System.Boolean})
+- uid: XIV.Core.Collections.DynamicArray`1.Exists(System.Func{`0,System.Boolean})
   name: Exists(Func<T, bool>)
-  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1_Exists_Func__0_System_Boolean__
-  commentId: M:XIV.Core.Collections.DynamicArray`1.Exists(Func{`0,System.Boolean})
+  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1_Exists_System_Func__0_System_Boolean__
+  commentId: M:XIV.Core.Collections.DynamicArray`1.Exists(System.Func{`0,System.Boolean})
   name.vb: Exists(Func(Of T, Boolean))
-  fullName: XIV.Core.Collections.DynamicArray<T>.Exists(Func<T, bool>)
-  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).Exists(Func(Of T, Boolean))
+  fullName: XIV.Core.Collections.DynamicArray<T>.Exists(System.Func<T, bool>)
+  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).Exists(System.Func(Of T, Boolean))
   nameWithType: DynamicArray<T>.Exists(Func<T, bool>)
   nameWithType.vb: DynamicArray(Of T).Exists(Func(Of T, Boolean))
 - uid: XIV.Core.Collections.DynamicArray`1.Exists*
@@ -658,13 +658,13 @@ references:
   fullName.vb: XIV.Core.Collections.DynamicArray(Of T).Remove
   nameWithType: DynamicArray<T>.Remove
   nameWithType.vb: DynamicArray(Of T).Remove
-- uid: XIV.Core.Collections.DynamicArray`1.RemoveAll(Predicate{`0})
+- uid: XIV.Core.Collections.DynamicArray`1.RemoveAll(System.Predicate{`0})
   name: RemoveAll(Predicate<T>)
-  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1_RemoveAll_Predicate__0__
-  commentId: M:XIV.Core.Collections.DynamicArray`1.RemoveAll(Predicate{`0})
+  href: api/XIV.Core.Collections.DynamicArray-1.html#XIV_Core_Collections_DynamicArray_1_RemoveAll_System_Predicate__0__
+  commentId: M:XIV.Core.Collections.DynamicArray`1.RemoveAll(System.Predicate{`0})
   name.vb: RemoveAll(Predicate(Of T))
-  fullName: XIV.Core.Collections.DynamicArray<T>.RemoveAll(Predicate<T>)
-  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).RemoveAll(Predicate(Of T))
+  fullName: XIV.Core.Collections.DynamicArray<T>.RemoveAll(System.Predicate<T>)
+  fullName.vb: XIV.Core.Collections.DynamicArray(Of T).RemoveAll(System.Predicate(Of T))
   nameWithType: DynamicArray<T>.RemoveAll(Predicate<T>)
   nameWithType.vb: DynamicArray(Of T).RemoveAll(Predicate(Of T))
 - uid: XIV.Core.Collections.DynamicArray`1.RemoveAll*
@@ -763,13 +763,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.ArrayExtensions.Count
   nameWithType: ArrayExtensions.Count
-- uid: XIV.Core.Extensions.ArrayExtensions.Count``1(``0[],Func{``0,System.Boolean})
+- uid: XIV.Core.Extensions.ArrayExtensions.Count``1(``0[],System.Func{``0,System.Boolean})
   name: Count<T>(T[], Func<T, bool>)
-  href: api/XIV.Core.Extensions.ArrayExtensions.html#XIV_Core_Extensions_ArrayExtensions_Count__1___0___Func___0_System_Boolean__
-  commentId: M:XIV.Core.Extensions.ArrayExtensions.Count``1(``0[],Func{``0,System.Boolean})
+  href: api/XIV.Core.Extensions.ArrayExtensions.html#XIV_Core_Extensions_ArrayExtensions_Count__1___0___System_Func___0_System_Boolean__
+  commentId: M:XIV.Core.Extensions.ArrayExtensions.Count``1(``0[],System.Func{``0,System.Boolean})
   name.vb: Count(Of T)(T(), Func(Of T, Boolean))
-  fullName: XIV.Core.Extensions.ArrayExtensions.Count<T>(T[], Func<T, bool>)
-  fullName.vb: XIV.Core.Extensions.ArrayExtensions.Count(Of T)(T(), Func(Of T, Boolean))
+  fullName: XIV.Core.Extensions.ArrayExtensions.Count<T>(T[], System.Func<T, bool>)
+  fullName.vb: XIV.Core.Extensions.ArrayExtensions.Count(Of T)(T(), System.Func(Of T, Boolean))
   nameWithType: ArrayExtensions.Count<T>(T[], Func<T, bool>)
   nameWithType.vb: ArrayExtensions.Count(Of T)(T(), Func(Of T, Boolean))
 - uid: XIV.Core.Extensions.ArrayExtensions.RemoveAt*
@@ -795,13 +795,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.ArrayExtensions.RemoveIf
   nameWithType: ArrayExtensions.RemoveIf
-- uid: XIV.Core.Extensions.ArrayExtensions.RemoveIf``1(``0[],Func{``0,System.Boolean})
+- uid: XIV.Core.Extensions.ArrayExtensions.RemoveIf``1(``0[],System.Func{``0,System.Boolean})
   name: RemoveIf<T>(T[], Func<T, bool>)
-  href: api/XIV.Core.Extensions.ArrayExtensions.html#XIV_Core_Extensions_ArrayExtensions_RemoveIf__1___0___Func___0_System_Boolean__
-  commentId: M:XIV.Core.Extensions.ArrayExtensions.RemoveIf``1(``0[],Func{``0,System.Boolean})
+  href: api/XIV.Core.Extensions.ArrayExtensions.html#XIV_Core_Extensions_ArrayExtensions_RemoveIf__1___0___System_Func___0_System_Boolean__
+  commentId: M:XIV.Core.Extensions.ArrayExtensions.RemoveIf``1(``0[],System.Func{``0,System.Boolean})
   name.vb: RemoveIf(Of T)(T(), Func(Of T, Boolean))
-  fullName: XIV.Core.Extensions.ArrayExtensions.RemoveIf<T>(T[], Func<T, bool>)
-  fullName.vb: XIV.Core.Extensions.ArrayExtensions.RemoveIf(Of T)(T(), Func(Of T, Boolean))
+  fullName: XIV.Core.Extensions.ArrayExtensions.RemoveIf<T>(T[], System.Func<T, bool>)
+  fullName.vb: XIV.Core.Extensions.ArrayExtensions.RemoveIf(Of T)(T(), System.Func(Of T, Boolean))
   nameWithType: ArrayExtensions.RemoveIf<T>(T[], Func<T, bool>)
   nameWithType.vb: ArrayExtensions.RemoveIf(Of T)(T(), Func(Of T, Boolean))
 - uid: XIV.Core.Extensions.ArrayExtensions.Split*
@@ -811,13 +811,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.ArrayExtensions.Split
   nameWithType: ArrayExtensions.Split
-- uid: XIV.Core.Extensions.ArrayExtensions.Split``1(``0[],Func{``0,System.Boolean})
+- uid: XIV.Core.Extensions.ArrayExtensions.Split``1(``0[],System.Func{``0,System.Boolean})
   name: Split<T>(T[], Func<T, bool>)
-  href: api/XIV.Core.Extensions.ArrayExtensions.html#XIV_Core_Extensions_ArrayExtensions_Split__1___0___Func___0_System_Boolean__
-  commentId: M:XIV.Core.Extensions.ArrayExtensions.Split``1(``0[],Func{``0,System.Boolean})
+  href: api/XIV.Core.Extensions.ArrayExtensions.html#XIV_Core_Extensions_ArrayExtensions_Split__1___0___System_Func___0_System_Boolean__
+  commentId: M:XIV.Core.Extensions.ArrayExtensions.Split``1(``0[],System.Func{``0,System.Boolean})
   name.vb: Split(Of T)(T(), Func(Of T, Boolean))
-  fullName: XIV.Core.Extensions.ArrayExtensions.Split<T>(T[], Func<T, bool>)
-  fullName.vb: XIV.Core.Extensions.ArrayExtensions.Split(Of T)(T(), Func(Of T, Boolean))
+  fullName: XIV.Core.Extensions.ArrayExtensions.Split<T>(T[], System.Func<T, bool>)
+  fullName.vb: XIV.Core.Extensions.ArrayExtensions.Split(Of T)(T(), System.Func(Of T, Boolean))
   nameWithType: ArrayExtensions.Split<T>(T[], Func<T, bool>)
   nameWithType.vb: ArrayExtensions.Split(Of T)(T(), Func(Of T, Boolean))
 - uid: XIV.Core.Extensions.Collider2DIListExtensions
@@ -833,40 +833,40 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider
   nameWithType: Collider2DIListExtensions.GetClosestCollider
-- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2)
+- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2)
   name: GetClosestCollider<T>(IList<T>, Vector2)
-  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_IList___0__Vector2_
-  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2)
+  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector2_
+  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector2)
-  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2)
-  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2)
+  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector2)
+  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector2)
   nameWithType: Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2)
   nameWithType.vb: Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2)
-- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2,System.Int32)
+- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2,System.Int32)
   name: GetClosestCollider<T>(IList<T>, Vector2, int)
-  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_IList___0__Vector2_System_Int32_
-  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2,System.Int32)
+  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector2_System_Int32_
+  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2,System.Int32)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector2, Integer)
-  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2, int)
-  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2, Integer)
+  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector2, int)
+  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector2, Integer)
   nameWithType: Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2, int)
   nameWithType.vb: Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2, Integer)
-- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2,System.Int32,Vector2@)
+- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2,System.Int32,Vector2@)
   name: GetClosestCollider<T>(IList<T>, Vector2, int, out Vector2)
-  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_IList___0__Vector2_System_Int32_Vector2__
-  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2,System.Int32,Vector2@)
+  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector2_System_Int32_Vector2__
+  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2,System.Int32,Vector2@)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector2, Integer, Vector2)
-  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2, int, out Vector2)
-  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2, Integer, Vector2)
+  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector2, int, out Vector2)
+  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector2, Integer, Vector2)
   nameWithType: Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2, int, out Vector2)
   nameWithType.vb: Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2, Integer, Vector2)
-- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2,Vector2@)
+- uid: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2,Vector2@)
   name: GetClosestCollider<T>(IList<T>, Vector2, out Vector2)
-  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_IList___0__Vector2_Vector2__
-  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(IList{``0},Vector2,Vector2@)
+  href: api/XIV.Core.Extensions.Collider2DIListExtensions.html#XIV_Core_Extensions_Collider2DIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector2_Vector2__
+  commentId: M:XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector2,Vector2@)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector2, Vector2)
-  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2, out Vector2)
-  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2, Vector2)
+  fullName: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector2, out Vector2)
+  fullName.vb: XIV.Core.Extensions.Collider2DIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector2, Vector2)
   nameWithType: Collider2DIListExtensions.GetClosestCollider<T>(IList<T>, Vector2, out Vector2)
   nameWithType.vb: Collider2DIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector2, Vector2)
 - uid: XIV.Core.Extensions.ColliderIListExtensions
@@ -882,40 +882,40 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider
   nameWithType: ColliderIListExtensions.GetClosestCollider
-- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3)
+- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3)
   name: GetClosestCollider<T>(IList<T>, Vector3)
-  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_IList___0__Vector3_
-  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3)
+  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector3_
+  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector3)
-  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3)
-  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3)
+  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector3)
+  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector3)
   nameWithType: ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3)
   nameWithType.vb: ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3)
-- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3,System.Int32)
+- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3,System.Int32)
   name: GetClosestCollider<T>(IList<T>, Vector3, int)
-  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_IList___0__Vector3_System_Int32_
-  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3,System.Int32)
+  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector3_System_Int32_
+  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3,System.Int32)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector3, Integer)
-  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3, int)
-  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3, Integer)
+  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector3, int)
+  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector3, Integer)
   nameWithType: ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3, int)
   nameWithType.vb: ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3, Integer)
-- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3,System.Int32,Vector3@)
+- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3,System.Int32,Vector3@)
   name: GetClosestCollider<T>(IList<T>, Vector3, int, out Vector3)
-  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_IList___0__Vector3_System_Int32_Vector3__
-  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3,System.Int32,Vector3@)
+  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector3_System_Int32_Vector3__
+  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3,System.Int32,Vector3@)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector3, Integer, Vector3)
-  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3, int, out Vector3)
-  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3, Integer, Vector3)
+  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector3, int, out Vector3)
+  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector3, Integer, Vector3)
   nameWithType: ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3, int, out Vector3)
   nameWithType.vb: ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3, Integer, Vector3)
-- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3,Vector3@)
+- uid: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3,Vector3@)
   name: GetClosestCollider<T>(IList<T>, Vector3, out Vector3)
-  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_IList___0__Vector3_Vector3__
-  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(IList{``0},Vector3,Vector3@)
+  href: api/XIV.Core.Extensions.ColliderIListExtensions.html#XIV_Core_Extensions_ColliderIListExtensions_GetClosestCollider__1_System_Collections_Generic_IList___0__Vector3_Vector3__
+  commentId: M:XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider``1(System.Collections.Generic.IList{``0},Vector3,Vector3@)
   name.vb: GetClosestCollider(Of T)(IList(Of T), Vector3, Vector3)
-  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3, out Vector3)
-  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3, Vector3)
+  fullName: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider<T>(System.Collections.Generic.IList<T>, Vector3, out Vector3)
+  fullName.vb: XIV.Core.Extensions.ColliderIListExtensions.GetClosestCollider(Of T)(System.Collections.Generic.IList(Of T), Vector3, Vector3)
   nameWithType: ColliderIListExtensions.GetClosestCollider<T>(IList<T>, Vector3, out Vector3)
   nameWithType.vb: ColliderIListExtensions.GetClosestCollider(Of T)(IList(Of T), Vector3, Vector3)
 - uid: XIV.Core.Extensions.ColorExtensions
@@ -1008,76 +1008,76 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane
   nameWithType: ComponentIListExtensions.GetClosestOnXZPlane
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(IList{``0},Vector3)
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(System.Collections.Generic.IList{``0},Vector3)
   name: GetClosestOnXZPlane<T>(IList<T>, Vector3)
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosestOnXZPlane__1_IList___0__Vector3_
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(IList{``0},Vector3)
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosestOnXZPlane__1_System_Collections_Generic_IList___0__Vector3_
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(System.Collections.Generic.IList{``0},Vector3)
   name.vb: GetClosestOnXZPlane(Of T)(IList(Of T), Vector3)
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane<T>(IList<T>, Vector3)
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane(Of T)(IList(Of T), Vector3)
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane<T>(System.Collections.Generic.IList<T>, Vector3)
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane(Of T)(System.Collections.Generic.IList(Of T), Vector3)
   nameWithType: ComponentIListExtensions.GetClosestOnXZPlane<T>(IList<T>, Vector3)
   nameWithType.vb: ComponentIListExtensions.GetClosestOnXZPlane(Of T)(IList(Of T), Vector3)
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(IList{``0},Vector3,System.Single@)
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(System.Collections.Generic.IList{``0},Vector3,System.Single@)
   name: GetClosestOnXZPlane<T>(IList<T>, Vector3, out float)
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosestOnXZPlane__1_IList___0__Vector3_System_Single__
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(IList{``0},Vector3,System.Single@)
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosestOnXZPlane__1_System_Collections_Generic_IList___0__Vector3_System_Single__
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane``1(System.Collections.Generic.IList{``0},Vector3,System.Single@)
   name.vb: GetClosestOnXZPlane(Of T)(IList(Of T), Vector3, Single)
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane<T>(IList<T>, Vector3, out float)
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane(Of T)(IList(Of T), Vector3, Single)
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane<T>(System.Collections.Generic.IList<T>, Vector3, out float)
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosestOnXZPlane(Of T)(System.Collections.Generic.IList(Of T), Vector3, Single)
   nameWithType: ComponentIListExtensions.GetClosestOnXZPlane<T>(IList<T>, Vector3, out float)
   nameWithType.vb: ComponentIListExtensions.GetClosestOnXZPlane(Of T)(IList(Of T), Vector3, Single)
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3)
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3)
   name: GetClosest<T>(IList<T>, Vector3)
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_IList___0__Vector3_
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3)
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_System_Collections_Generic_IList___0__Vector3_
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3)
   name.vb: GetClosest(Of T)(IList(Of T), Vector3)
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3)
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3)
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(System.Collections.Generic.IList<T>, Vector3)
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(System.Collections.Generic.IList(Of T), Vector3)
   nameWithType: ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3)
   nameWithType.vb: ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3)
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Int32)
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Int32)
   name: GetClosest<T>(IList<T>, Vector3, int)
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_IList___0__Vector3_System_Int32_
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Int32)
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_System_Collections_Generic_IList___0__Vector3_System_Int32_
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Int32)
   name.vb: GetClosest(Of T)(IList(Of T), Vector3, Integer)
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, int)
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Integer)
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(System.Collections.Generic.IList<T>, Vector3, int)
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(System.Collections.Generic.IList(Of T), Vector3, Integer)
   nameWithType: ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, int)
   nameWithType.vb: ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Integer)
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Int32,System.Single@)
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Int32,System.Single@)
   name: GetClosest<T>(IList<T>, Vector3, int, out float)
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_IList___0__Vector3_System_Int32_System_Single__
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Int32,System.Single@)
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_System_Collections_Generic_IList___0__Vector3_System_Int32_System_Single__
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Int32,System.Single@)
   name.vb: GetClosest(Of T)(IList(Of T), Vector3, Integer, Single)
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, int, out float)
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Integer, Single)
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(System.Collections.Generic.IList<T>, Vector3, int, out float)
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(System.Collections.Generic.IList(Of T), Vector3, Integer, Single)
   nameWithType: ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, int, out float)
   nameWithType.vb: ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Integer, Single)
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Single@)
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Single@)
   name: GetClosest<T>(IList<T>, Vector3, out float)
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_IList___0__Vector3_System_Single__
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Single@)
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_System_Collections_Generic_IList___0__Vector3_System_Single__
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Single@)
   name.vb: GetClosest(Of T)(IList(Of T), Vector3, Single)
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, out float)
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Single)
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(System.Collections.Generic.IList<T>, Vector3, out float)
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(System.Collections.Generic.IList(Of T), Vector3, Single)
   nameWithType: ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, out float)
   nameWithType.vb: ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Single)
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Single@,``0[])
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Single@,``0[])
   name: GetClosest<T>(IList<T>, Vector3, out float, params T[])
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_IList___0__Vector3_System_Single____0___
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,System.Single@,``0[])
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_System_Collections_Generic_IList___0__Vector3_System_Single____0___
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,System.Single@,``0[])
   name.vb: GetClosest(Of T)(IList(Of T), Vector3, Single, ParamArray T())
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, out float, params T[])
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Single, ParamArray T())
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(System.Collections.Generic.IList<T>, Vector3, out float, params T[])
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(System.Collections.Generic.IList(Of T), Vector3, Single, ParamArray T())
   nameWithType: ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, out float, params T[])
   nameWithType.vb: ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, Single, ParamArray T())
-- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,``0[])
+- uid: XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,``0[])
   name: GetClosest<T>(IList<T>, Vector3, params T[])
-  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_IList___0__Vector3___0___
-  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(IList{``0},Vector3,``0[])
+  href: api/XIV.Core.Extensions.ComponentIListExtensions.html#XIV_Core_Extensions_ComponentIListExtensions_GetClosest__1_System_Collections_Generic_IList___0__Vector3___0___
+  commentId: M:XIV.Core.Extensions.ComponentIListExtensions.GetClosest``1(System.Collections.Generic.IList{``0},Vector3,``0[])
   name.vb: GetClosest(Of T)(IList(Of T), Vector3, ParamArray T())
-  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, params T[])
-  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, ParamArray T())
+  fullName: XIV.Core.Extensions.ComponentIListExtensions.GetClosest<T>(System.Collections.Generic.IList<T>, Vector3, params T[])
+  fullName.vb: XIV.Core.Extensions.ComponentIListExtensions.GetClosest(Of T)(System.Collections.Generic.IList(Of T), Vector3, ParamArray T())
   nameWithType: ComponentIListExtensions.GetClosest<T>(IList<T>, Vector3, params T[])
   nameWithType.vb: ComponentIListExtensions.GetClosest(Of T)(IList(Of T), Vector3, ParamArray T())
 - uid: XIV.Core.Extensions.IListExtensions
@@ -1093,13 +1093,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.Extensions.IListExtensions.PickRandom
   nameWithType: IListExtensions.PickRandom
-- uid: XIV.Core.Extensions.IListExtensions.PickRandom``1(IList{``0})
+- uid: XIV.Core.Extensions.IListExtensions.PickRandom``1(System.Collections.Generic.IList{``0})
   name: PickRandom<T>(IList<T>)
-  href: api/XIV.Core.Extensions.IListExtensions.html#XIV_Core_Extensions_IListExtensions_PickRandom__1_IList___0__
-  commentId: M:XIV.Core.Extensions.IListExtensions.PickRandom``1(IList{``0})
+  href: api/XIV.Core.Extensions.IListExtensions.html#XIV_Core_Extensions_IListExtensions_PickRandom__1_System_Collections_Generic_IList___0__
+  commentId: M:XIV.Core.Extensions.IListExtensions.PickRandom``1(System.Collections.Generic.IList{``0})
   name.vb: PickRandom(Of T)(IList(Of T))
-  fullName: XIV.Core.Extensions.IListExtensions.PickRandom<T>(IList<T>)
-  fullName.vb: XIV.Core.Extensions.IListExtensions.PickRandom(Of T)(IList(Of T))
+  fullName: XIV.Core.Extensions.IListExtensions.PickRandom<T>(System.Collections.Generic.IList<T>)
+  fullName.vb: XIV.Core.Extensions.IListExtensions.PickRandom(Of T)(System.Collections.Generic.IList(Of T))
   nameWithType: IListExtensions.PickRandom<T>(IList<T>)
   nameWithType.vb: IListExtensions.PickRandom(Of T)(IList(Of T))
 - uid: XIV.Core.Extensions.StringExtensions
@@ -2274,13 +2274,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.TweenSystem.TweenTimeline.IsDone
   nameWithType: TweenTimeline.IsDone
-- uid: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(Func{System.Single})
+- uid: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(System.Func{System.Single})
   name: SetDeltaTimeFunc(Func<float>)
-  href: api/XIV.Core.TweenSystem.TweenTimeline.html#XIV_Core_TweenSystem_TweenTimeline_SetDeltaTimeFunc_Func_System_Single__
-  commentId: M:XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(Func{System.Single})
+  href: api/XIV.Core.TweenSystem.TweenTimeline.html#XIV_Core_TweenSystem_TweenTimeline_SetDeltaTimeFunc_System_Func_System_Single__
+  commentId: M:XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(System.Func{System.Single})
   name.vb: SetDeltaTimeFunc(Func(Of Single))
-  fullName: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(Func<float>)
-  fullName.vb: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(Func(Of Single))
+  fullName: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(System.Func<float>)
+  fullName.vb: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc(System.Func(Of Single))
   nameWithType: TweenTimeline.SetDeltaTimeFunc(Func<float>)
   nameWithType.vb: TweenTimeline.SetDeltaTimeFunc(Func(Of Single))
 - uid: XIV.Core.TweenSystem.TweenTimeline.SetDeltaTimeFunc*
@@ -2504,19 +2504,19 @@ references:
   isSpec: "True"
   fullName: XIV.Core.TweenSystem.XIVTweenBuilder.MoveZ
   nameWithType: XIVTweenBuilder.MoveZ
-- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action)
+- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action)
   name: OnCanceled(Action)
-  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnCanceled_Action_
-  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action)
-  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action)
+  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnCanceled_System_Action_
+  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action)
+  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action)
   nameWithType: XIVTweenBuilder.OnCanceled(Action)
-- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action{GameObject})
+- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action{GameObject})
   name: OnCanceled(Action<GameObject>)
-  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnCanceled_Action_GameObject__
-  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action{GameObject})
+  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnCanceled_System_Action_GameObject__
+  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action{GameObject})
   name.vb: OnCanceled(Action(Of GameObject))
-  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action<GameObject>)
-  fullName.vb: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(Action(Of GameObject))
+  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action<GameObject>)
+  fullName.vb: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled(System.Action(Of GameObject))
   nameWithType: XIVTweenBuilder.OnCanceled(Action<GameObject>)
   nameWithType.vb: XIVTweenBuilder.OnCanceled(Action(Of GameObject))
 - uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled*
@@ -2526,19 +2526,19 @@ references:
   isSpec: "True"
   fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnCanceled
   nameWithType: XIVTweenBuilder.OnCanceled
-- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action)
+- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action)
   name: OnComplete(Action)
-  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnComplete_Action_
-  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action)
-  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action)
+  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnComplete_System_Action_
+  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action)
+  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action)
   nameWithType: XIVTweenBuilder.OnComplete(Action)
-- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action{GameObject})
+- uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action{GameObject})
   name: OnComplete(Action<GameObject>)
-  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnComplete_Action_GameObject__
-  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action{GameObject})
+  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_OnComplete_System_Action_GameObject__
+  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action{GameObject})
   name.vb: OnComplete(Action(Of GameObject))
-  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action<GameObject>)
-  fullName.vb: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(Action(Of GameObject))
+  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action<GameObject>)
+  fullName.vb: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete(System.Action(Of GameObject))
   nameWithType: XIVTweenBuilder.OnComplete(Action<GameObject>)
   nameWithType.vb: XIVTweenBuilder.OnComplete(Action(Of GameObject))
 - uid: XIV.Core.TweenSystem.XIVTweenBuilder.OnComplete*
@@ -2737,13 +2737,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.TweenSystem.XIVTweenBuilder.Start
   nameWithType: XIVTweenBuilder.Start
-- uid: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(Func{System.Single})
+- uid: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(System.Func{System.Single})
   name: UseCustomDeltaTime(Func<float>)
-  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_UseCustomDeltaTime_Func_System_Single__
-  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(Func{System.Single})
+  href: api/XIV.Core.TweenSystem.XIVTweenBuilder.html#XIV_Core_TweenSystem_XIVTweenBuilder_UseCustomDeltaTime_System_Func_System_Single__
+  commentId: M:XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(System.Func{System.Single})
   name.vb: UseCustomDeltaTime(Func(Of Single))
-  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(Func<float>)
-  fullName.vb: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(Func(Of Single))
+  fullName: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(System.Func<float>)
+  fullName.vb: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime(System.Func(Of Single))
   nameWithType: XIVTweenBuilder.UseCustomDeltaTime(Func<float>)
   nameWithType.vb: XIVTweenBuilder.UseCustomDeltaTime(Func(Of Single))
 - uid: XIV.Core.TweenSystem.XIVTweenBuilder.UseCustomDeltaTime*
@@ -6029,13 +6029,13 @@ references:
   commentId: T:XIV.Core.XIVMath.SplineMath
   fullName: XIV.Core.XIVMath.SplineMath
   nameWithType: SplineMath
-- uid: XIV.Core.XIVMath.SplineMath.GetLength(IList{Vector3},System.Int32)
+- uid: XIV.Core.XIVMath.SplineMath.GetLength(System.Collections.Generic.IList{Vector3},System.Int32)
   name: GetLength(IList<Vector3>, int)
-  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetLength_IList_Vector3__System_Int32_
-  commentId: M:XIV.Core.XIVMath.SplineMath.GetLength(IList{Vector3},System.Int32)
+  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetLength_System_Collections_Generic_IList_Vector3__System_Int32_
+  commentId: M:XIV.Core.XIVMath.SplineMath.GetLength(System.Collections.Generic.IList{Vector3},System.Int32)
   name.vb: GetLength(IList(Of Vector3), Integer)
-  fullName: XIV.Core.XIVMath.SplineMath.GetLength(IList<Vector3>, int)
-  fullName.vb: XIV.Core.XIVMath.SplineMath.GetLength(IList(Of Vector3), Integer)
+  fullName: XIV.Core.XIVMath.SplineMath.GetLength(System.Collections.Generic.IList<Vector3>, int)
+  fullName.vb: XIV.Core.XIVMath.SplineMath.GetLength(System.Collections.Generic.IList(Of Vector3), Integer)
   nameWithType: SplineMath.GetLength(IList<Vector3>, int)
   nameWithType.vb: SplineMath.GetLength(IList(Of Vector3), Integer)
 - uid: XIV.Core.XIVMath.SplineMath.GetLength*
@@ -6045,13 +6045,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.XIVMath.SplineMath.GetLength
   nameWithType: SplineMath.GetLength
-- uid: XIV.Core.XIVMath.SplineMath.GetPoint(IList{Vector3},System.Single)
+- uid: XIV.Core.XIVMath.SplineMath.GetPoint(System.Collections.Generic.IList{Vector3},System.Single)
   name: GetPoint(IList<Vector3>, float)
-  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetPoint_IList_Vector3__System_Single_
-  commentId: M:XIV.Core.XIVMath.SplineMath.GetPoint(IList{Vector3},System.Single)
+  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetPoint_System_Collections_Generic_IList_Vector3__System_Single_
+  commentId: M:XIV.Core.XIVMath.SplineMath.GetPoint(System.Collections.Generic.IList{Vector3},System.Single)
   name.vb: GetPoint(IList(Of Vector3), Single)
-  fullName: XIV.Core.XIVMath.SplineMath.GetPoint(IList<Vector3>, float)
-  fullName.vb: XIV.Core.XIVMath.SplineMath.GetPoint(IList(Of Vector3), Single)
+  fullName: XIV.Core.XIVMath.SplineMath.GetPoint(System.Collections.Generic.IList<Vector3>, float)
+  fullName.vb: XIV.Core.XIVMath.SplineMath.GetPoint(System.Collections.Generic.IList(Of Vector3), Single)
   nameWithType: SplineMath.GetPoint(IList<Vector3>, float)
   nameWithType.vb: SplineMath.GetPoint(IList(Of Vector3), Single)
 - uid: XIV.Core.XIVMath.SplineMath.GetPoint*
@@ -6061,13 +6061,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.XIVMath.SplineMath.GetPoint
   nameWithType: SplineMath.GetPoint
-- uid: XIV.Core.XIVMath.SplineMath.GetTime(Vector3,IList{Vector3},System.Single)
+- uid: XIV.Core.XIVMath.SplineMath.GetTime(Vector3,System.Collections.Generic.IList{Vector3},System.Single)
   name: GetTime(Vector3, IList<Vector3>, float)
-  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetTime_Vector3_IList_Vector3__System_Single_
-  commentId: M:XIV.Core.XIVMath.SplineMath.GetTime(Vector3,IList{Vector3},System.Single)
+  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetTime_Vector3_System_Collections_Generic_IList_Vector3__System_Single_
+  commentId: M:XIV.Core.XIVMath.SplineMath.GetTime(Vector3,System.Collections.Generic.IList{Vector3},System.Single)
   name.vb: GetTime(Vector3, IList(Of Vector3), Single)
-  fullName: XIV.Core.XIVMath.SplineMath.GetTime(Vector3, IList<Vector3>, float)
-  fullName.vb: XIV.Core.XIVMath.SplineMath.GetTime(Vector3, IList(Of Vector3), Single)
+  fullName: XIV.Core.XIVMath.SplineMath.GetTime(Vector3, System.Collections.Generic.IList<Vector3>, float)
+  fullName.vb: XIV.Core.XIVMath.SplineMath.GetTime(Vector3, System.Collections.Generic.IList(Of Vector3), Single)
   nameWithType: SplineMath.GetTime(Vector3, IList<Vector3>, float)
   nameWithType.vb: SplineMath.GetTime(Vector3, IList(Of Vector3), Single)
 - uid: XIV.Core.XIVMath.SplineMath.GetTime*
@@ -6077,13 +6077,13 @@ references:
   isSpec: "True"
   fullName: XIV.Core.XIVMath.SplineMath.GetTime
   nameWithType: SplineMath.GetTime
-- uid: XIV.Core.XIVMath.SplineMath.GetVelocity(IList{Vector3},System.Single)
+- uid: XIV.Core.XIVMath.SplineMath.GetVelocity(System.Collections.Generic.IList{Vector3},System.Single)
   name: GetVelocity(IList<Vector3>, float)
-  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetVelocity_IList_Vector3__System_Single_
-  commentId: M:XIV.Core.XIVMath.SplineMath.GetVelocity(IList{Vector3},System.Single)
+  href: api/XIV.Core.XIVMath.SplineMath.html#XIV_Core_XIVMath_SplineMath_GetVelocity_System_Collections_Generic_IList_Vector3__System_Single_
+  commentId: M:XIV.Core.XIVMath.SplineMath.GetVelocity(System.Collections.Generic.IList{Vector3},System.Single)
   name.vb: GetVelocity(IList(Of Vector3), Single)
-  fullName: XIV.Core.XIVMath.SplineMath.GetVelocity(IList<Vector3>, float)
-  fullName.vb: XIV.Core.XIVMath.SplineMath.GetVelocity(IList(Of Vector3), Single)
+  fullName: XIV.Core.XIVMath.SplineMath.GetVelocity(System.Collections.Generic.IList<Vector3>, float)
+  fullName.vb: XIV.Core.XIVMath.SplineMath.GetVelocity(System.Collections.Generic.IList(Of Vector3), Single)
   nameWithType: SplineMath.GetVelocity(IList<Vector3>, float)
   nameWithType.vb: SplineMath.GetVelocity(IList(Of Vector3), Single)
 - uid: XIV.Core.XIVMath.SplineMath.GetVelocity*
@@ -6866,11 +6866,11 @@ references:
   fullName.vb: XIV.EventSystem.Events.InvokeAfterEvent.New
   nameWithType: InvokeAfterEvent.InvokeAfterEvent
   nameWithType.vb: InvokeAfterEvent.New
-- uid: XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled(Action)
+- uid: XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled(System.Action)
   name: OnCanceled(Action)
-  href: api/XIV.EventSystem.Events.InvokeAfterEvent.html#XIV_EventSystem_Events_InvokeAfterEvent_OnCanceled_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled(Action)
-  fullName: XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled(Action)
+  href: api/XIV.EventSystem.Events.InvokeAfterEvent.html#XIV_EventSystem_Events_InvokeAfterEvent_OnCanceled_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled(System.Action)
   nameWithType: InvokeAfterEvent.OnCanceled(Action)
 - uid: XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled*
   name: OnCanceled
@@ -6879,11 +6879,11 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeAfterEvent.OnCanceled
   nameWithType: InvokeAfterEvent.OnCanceled
-- uid: XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted(Action)
+- uid: XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted(System.Action)
   name: OnCompleted(Action)
-  href: api/XIV.EventSystem.Events.InvokeAfterEvent.html#XIV_EventSystem_Events_InvokeAfterEvent_OnCompleted_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted(Action)
-  fullName: XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted(Action)
+  href: api/XIV.EventSystem.Events.InvokeAfterEvent.html#XIV_EventSystem_Events_InvokeAfterEvent_OnCompleted_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted(System.Action)
   nameWithType: InvokeAfterEvent.OnCompleted(Action)
 - uid: XIV.EventSystem.Events.InvokeAfterEvent.OnCompleted*
   name: OnCompleted
@@ -6917,13 +6917,13 @@ references:
   fullName.vb: XIV.EventSystem.Events.InvokeForSecondsEvent.New
   nameWithType: InvokeForSecondsEvent.InvokeForSecondsEvent
   nameWithType.vb: InvokeForSecondsEvent.New
-- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(Action{XIV.Core.Utils.Timer})
+- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(System.Action{XIV.Core.Utils.Timer})
   name: AddAction(Action<Timer>)
-  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_AddAction_Action_XIV_Core_Utils_Timer__
-  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(Action{XIV.Core.Utils.Timer})
+  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_AddAction_System_Action_XIV_Core_Utils_Timer__
+  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(System.Action{XIV.Core.Utils.Timer})
   name.vb: AddAction(Action(Of Timer))
-  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(Action<XIV.Core.Utils.Timer>)
-  fullName.vb: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(Action(Of XIV.Core.Utils.Timer))
+  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(System.Action<XIV.Core.Utils.Timer>)
+  fullName.vb: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction(System.Action(Of XIV.Core.Utils.Timer))
   nameWithType: InvokeForSecondsEvent.AddAction(Action<Timer>)
   nameWithType.vb: InvokeForSecondsEvent.AddAction(Action(Of Timer))
 - uid: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction*
@@ -6933,13 +6933,13 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.AddAction
   nameWithType: InvokeForSecondsEvent.AddAction
-- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(Func{System.Boolean})
+- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(System.Func{System.Boolean})
   name: AddCancelCondition(Func<bool>)
-  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_AddCancelCondition_Func_System_Boolean__
-  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(Func{System.Boolean})
+  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_AddCancelCondition_System_Func_System_Boolean__
+  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(System.Func{System.Boolean})
   name.vb: AddCancelCondition(Func(Of Boolean))
-  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(Func<bool>)
-  fullName.vb: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(Func(Of Boolean))
+  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(System.Func<bool>)
+  fullName.vb: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition(System.Func(Of Boolean))
   nameWithType: InvokeForSecondsEvent.AddCancelCondition(Func<bool>)
   nameWithType.vb: InvokeForSecondsEvent.AddCancelCondition(Func(Of Boolean))
 - uid: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition*
@@ -6949,11 +6949,11 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.AddCancelCondition
   nameWithType: InvokeForSecondsEvent.AddCancelCondition
-- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled(Action)
+- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled(System.Action)
   name: OnCanceled(Action)
-  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_OnCanceled_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled(Action)
-  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled(Action)
+  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_OnCanceled_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled(System.Action)
   nameWithType: InvokeForSecondsEvent.OnCanceled(Action)
 - uid: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled*
   name: OnCanceled
@@ -6962,11 +6962,11 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCanceled
   nameWithType: InvokeForSecondsEvent.OnCanceled
-- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted(Action)
+- uid: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted(System.Action)
   name: OnCompleted(Action)
-  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_OnCompleted_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted(Action)
-  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted(Action)
+  href: api/XIV.EventSystem.Events.InvokeForSecondsEvent.html#XIV_EventSystem_Events_InvokeForSecondsEvent_OnCompleted_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted(System.Action)
   nameWithType: InvokeForSecondsEvent.OnCompleted(Action)
 - uid: XIV.EventSystem.Events.InvokeForSecondsEvent.OnCompleted*
   name: OnCompleted
@@ -6997,11 +6997,11 @@ references:
   commentId: T:XIV.EventSystem.Events.InvokeUntilEvent
   fullName: XIV.EventSystem.Events.InvokeUntilEvent
   nameWithType: InvokeUntilEvent
-- uid: XIV.EventSystem.Events.InvokeUntilEvent.AddAction(Action)
+- uid: XIV.EventSystem.Events.InvokeUntilEvent.AddAction(System.Action)
   name: AddAction(Action)
-  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_AddAction_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.AddAction(Action)
-  fullName: XIV.EventSystem.Events.InvokeUntilEvent.AddAction(Action)
+  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_AddAction_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.AddAction(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeUntilEvent.AddAction(System.Action)
   nameWithType: InvokeUntilEvent.AddAction(Action)
 - uid: XIV.EventSystem.Events.InvokeUntilEvent.AddAction*
   name: AddAction
@@ -7010,13 +7010,13 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeUntilEvent.AddAction
   nameWithType: InvokeUntilEvent.AddAction
-- uid: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(Func{System.Boolean})
+- uid: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(System.Func{System.Boolean})
   name: AddCancelCondition(Func<bool>)
-  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_AddCancelCondition_Func_System_Boolean__
-  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(Func{System.Boolean})
+  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_AddCancelCondition_System_Func_System_Boolean__
+  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(System.Func{System.Boolean})
   name.vb: AddCancelCondition(Func(Of Boolean))
-  fullName: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(Func<bool>)
-  fullName.vb: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(Func(Of Boolean))
+  fullName: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(System.Func<bool>)
+  fullName.vb: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition(System.Func(Of Boolean))
   nameWithType: InvokeUntilEvent.AddCancelCondition(Func<bool>)
   nameWithType.vb: InvokeUntilEvent.AddCancelCondition(Func(Of Boolean))
 - uid: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition*
@@ -7026,11 +7026,11 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeUntilEvent.AddCancelCondition
   nameWithType: InvokeUntilEvent.AddCancelCondition
-- uid: XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled(Action)
+- uid: XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled(System.Action)
   name: OnCanceled(Action)
-  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_OnCanceled_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled(Action)
-  fullName: XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled(Action)
+  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_OnCanceled_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled(System.Action)
   nameWithType: InvokeUntilEvent.OnCanceled(Action)
 - uid: XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled*
   name: OnCanceled
@@ -7039,11 +7039,11 @@ references:
   isSpec: "True"
   fullName: XIV.EventSystem.Events.InvokeUntilEvent.OnCanceled
   nameWithType: InvokeUntilEvent.OnCanceled
-- uid: XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted(Action)
+- uid: XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted(System.Action)
   name: OnCompleted(Action)
-  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_OnCompleted_Action_
-  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted(Action)
-  fullName: XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted(Action)
+  href: api/XIV.EventSystem.Events.InvokeUntilEvent.html#XIV_EventSystem_Events_InvokeUntilEvent_OnCompleted_System_Action_
+  commentId: M:XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted(System.Action)
+  fullName: XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted(System.Action)
   nameWithType: InvokeUntilEvent.OnCompleted(Action)
 - uid: XIV.EventSystem.Events.InvokeUntilEvent.OnCompleted*
   name: OnCompleted
@@ -7122,12 +7122,12 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T)
   nameWithType: IEvent<T>
   nameWithType.vb: IEvent(Of T)
-- uid: XIV.EventSystem.IEvent`1.OnCanceled(Action)
+- uid: XIV.EventSystem.IEvent`1.OnCanceled(System.Action)
   name: OnCanceled(Action)
-  href: api/XIV.EventSystem.IEvent-1.html#XIV_EventSystem_IEvent_1_OnCanceled_Action_
-  commentId: M:XIV.EventSystem.IEvent`1.OnCanceled(Action)
-  fullName: XIV.EventSystem.IEvent<T>.OnCanceled(Action)
-  fullName.vb: XIV.EventSystem.IEvent(Of T).OnCanceled(Action)
+  href: api/XIV.EventSystem.IEvent-1.html#XIV_EventSystem_IEvent_1_OnCanceled_System_Action_
+  commentId: M:XIV.EventSystem.IEvent`1.OnCanceled(System.Action)
+  fullName: XIV.EventSystem.IEvent<T>.OnCanceled(System.Action)
+  fullName.vb: XIV.EventSystem.IEvent(Of T).OnCanceled(System.Action)
   nameWithType: IEvent<T>.OnCanceled(Action)
   nameWithType.vb: IEvent(Of T).OnCanceled(Action)
 - uid: XIV.EventSystem.IEvent`1.OnCanceled*
@@ -7139,12 +7139,12 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T).OnCanceled
   nameWithType: IEvent<T>.OnCanceled
   nameWithType.vb: IEvent(Of T).OnCanceled
-- uid: XIV.EventSystem.IEvent`1.OnCompleted(Action)
+- uid: XIV.EventSystem.IEvent`1.OnCompleted(System.Action)
   name: OnCompleted(Action)
-  href: api/XIV.EventSystem.IEvent-1.html#XIV_EventSystem_IEvent_1_OnCompleted_Action_
-  commentId: M:XIV.EventSystem.IEvent`1.OnCompleted(Action)
-  fullName: XIV.EventSystem.IEvent<T>.OnCompleted(Action)
-  fullName.vb: XIV.EventSystem.IEvent(Of T).OnCompleted(Action)
+  href: api/XIV.EventSystem.IEvent-1.html#XIV_EventSystem_IEvent_1_OnCompleted_System_Action_
+  commentId: M:XIV.EventSystem.IEvent`1.OnCompleted(System.Action)
+  fullName: XIV.EventSystem.IEvent<T>.OnCompleted(System.Action)
+  fullName.vb: XIV.EventSystem.IEvent(Of T).OnCompleted(System.Action)
   nameWithType: IEvent<T>.OnCompleted(Action)
   nameWithType.vb: IEvent(Of T).OnCompleted(Action)
 - uid: XIV.EventSystem.IEvent`1.OnCompleted*
@@ -7165,13 +7165,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0)
   nameWithType: IEvent<T, P0>
   nameWithType.vb: IEvent(Of T, P0)
-- uid: XIV.EventSystem.IEvent`2.OnCanceled(Action{`1})
+- uid: XIV.EventSystem.IEvent`2.OnCanceled(System.Action{`1})
   name: OnCanceled(Action<P0>)
-  href: api/XIV.EventSystem.IEvent-2.html#XIV_EventSystem_IEvent_2_OnCanceled_Action__1__
-  commentId: M:XIV.EventSystem.IEvent`2.OnCanceled(Action{`1})
+  href: api/XIV.EventSystem.IEvent-2.html#XIV_EventSystem_IEvent_2_OnCanceled_System_Action__1__
+  commentId: M:XIV.EventSystem.IEvent`2.OnCanceled(System.Action{`1})
   name.vb: OnCanceled(Action(Of P0))
-  fullName: XIV.EventSystem.IEvent<T, P0>.OnCanceled(Action<P0>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0).OnCanceled(Action(Of P0))
+  fullName: XIV.EventSystem.IEvent<T, P0>.OnCanceled(System.Action<P0>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0).OnCanceled(System.Action(Of P0))
   nameWithType: IEvent<T, P0>.OnCanceled(Action<P0>)
   nameWithType.vb: IEvent(Of T, P0).OnCanceled(Action(Of P0))
 - uid: XIV.EventSystem.IEvent`2.OnCanceled*
@@ -7183,13 +7183,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0).OnCanceled
   nameWithType: IEvent<T, P0>.OnCanceled
   nameWithType.vb: IEvent(Of T, P0).OnCanceled
-- uid: XIV.EventSystem.IEvent`2.OnCompleted(Action{`1})
+- uid: XIV.EventSystem.IEvent`2.OnCompleted(System.Action{`1})
   name: OnCompleted(Action<P0>)
-  href: api/XIV.EventSystem.IEvent-2.html#XIV_EventSystem_IEvent_2_OnCompleted_Action__1__
-  commentId: M:XIV.EventSystem.IEvent`2.OnCompleted(Action{`1})
+  href: api/XIV.EventSystem.IEvent-2.html#XIV_EventSystem_IEvent_2_OnCompleted_System_Action__1__
+  commentId: M:XIV.EventSystem.IEvent`2.OnCompleted(System.Action{`1})
   name.vb: OnCompleted(Action(Of P0))
-  fullName: XIV.EventSystem.IEvent<T, P0>.OnCompleted(Action<P0>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0).OnCompleted(Action(Of P0))
+  fullName: XIV.EventSystem.IEvent<T, P0>.OnCompleted(System.Action<P0>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0).OnCompleted(System.Action(Of P0))
   nameWithType: IEvent<T, P0>.OnCompleted(Action<P0>)
   nameWithType.vb: IEvent(Of T, P0).OnCompleted(Action(Of P0))
 - uid: XIV.EventSystem.IEvent`2.OnCompleted*
@@ -7210,13 +7210,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1)
   nameWithType: IEvent<T, P0, P1>
   nameWithType.vb: IEvent(Of T, P0, P1)
-- uid: XIV.EventSystem.IEvent`3.OnCanceled(Action{`1,`2})
+- uid: XIV.EventSystem.IEvent`3.OnCanceled(System.Action{`1,`2})
   name: OnCanceled(Action<P0, P1>)
-  href: api/XIV.EventSystem.IEvent-3.html#XIV_EventSystem_IEvent_3_OnCanceled_Action__1__2__
-  commentId: M:XIV.EventSystem.IEvent`3.OnCanceled(Action{`1,`2})
+  href: api/XIV.EventSystem.IEvent-3.html#XIV_EventSystem_IEvent_3_OnCanceled_System_Action__1__2__
+  commentId: M:XIV.EventSystem.IEvent`3.OnCanceled(System.Action{`1,`2})
   name.vb: OnCanceled(Action(Of P0, P1))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1>.OnCanceled(Action<P0, P1>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1).OnCanceled(Action(Of P0, P1))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1>.OnCanceled(System.Action<P0, P1>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1).OnCanceled(System.Action(Of P0, P1))
   nameWithType: IEvent<T, P0, P1>.OnCanceled(Action<P0, P1>)
   nameWithType.vb: IEvent(Of T, P0, P1).OnCanceled(Action(Of P0, P1))
 - uid: XIV.EventSystem.IEvent`3.OnCanceled*
@@ -7228,13 +7228,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1).OnCanceled
   nameWithType: IEvent<T, P0, P1>.OnCanceled
   nameWithType.vb: IEvent(Of T, P0, P1).OnCanceled
-- uid: XIV.EventSystem.IEvent`3.OnCompleted(Action{`1,`2})
+- uid: XIV.EventSystem.IEvent`3.OnCompleted(System.Action{`1,`2})
   name: OnCompleted(Action<P0, P1>)
-  href: api/XIV.EventSystem.IEvent-3.html#XIV_EventSystem_IEvent_3_OnCompleted_Action__1__2__
-  commentId: M:XIV.EventSystem.IEvent`3.OnCompleted(Action{`1,`2})
+  href: api/XIV.EventSystem.IEvent-3.html#XIV_EventSystem_IEvent_3_OnCompleted_System_Action__1__2__
+  commentId: M:XIV.EventSystem.IEvent`3.OnCompleted(System.Action{`1,`2})
   name.vb: OnCompleted(Action(Of P0, P1))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1>.OnCompleted(Action<P0, P1>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1).OnCompleted(Action(Of P0, P1))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1>.OnCompleted(System.Action<P0, P1>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1).OnCompleted(System.Action(Of P0, P1))
   nameWithType: IEvent<T, P0, P1>.OnCompleted(Action<P0, P1>)
   nameWithType.vb: IEvent(Of T, P0, P1).OnCompleted(Action(Of P0, P1))
 - uid: XIV.EventSystem.IEvent`3.OnCompleted*
@@ -7255,13 +7255,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2)
   nameWithType: IEvent<T, P0, P1, P2>
   nameWithType.vb: IEvent(Of T, P0, P1, P2)
-- uid: XIV.EventSystem.IEvent`4.OnCanceled(Action{`1,`2,`3})
+- uid: XIV.EventSystem.IEvent`4.OnCanceled(System.Action{`1,`2,`3})
   name: OnCanceled(Action<P0, P1, P2>)
-  href: api/XIV.EventSystem.IEvent-4.html#XIV_EventSystem_IEvent_4_OnCanceled_Action__1__2__3__
-  commentId: M:XIV.EventSystem.IEvent`4.OnCanceled(Action{`1,`2,`3})
+  href: api/XIV.EventSystem.IEvent-4.html#XIV_EventSystem_IEvent_4_OnCanceled_System_Action__1__2__3__
+  commentId: M:XIV.EventSystem.IEvent`4.OnCanceled(System.Action{`1,`2,`3})
   name.vb: OnCanceled(Action(Of P0, P1, P2))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2>.OnCanceled(Action<P0, P1, P2>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2).OnCanceled(Action(Of P0, P1, P2))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2>.OnCanceled(System.Action<P0, P1, P2>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2).OnCanceled(System.Action(Of P0, P1, P2))
   nameWithType: IEvent<T, P0, P1, P2>.OnCanceled(Action<P0, P1, P2>)
   nameWithType.vb: IEvent(Of T, P0, P1, P2).OnCanceled(Action(Of P0, P1, P2))
 - uid: XIV.EventSystem.IEvent`4.OnCanceled*
@@ -7273,13 +7273,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2).OnCanceled
   nameWithType: IEvent<T, P0, P1, P2>.OnCanceled
   nameWithType.vb: IEvent(Of T, P0, P1, P2).OnCanceled
-- uid: XIV.EventSystem.IEvent`4.OnCompleted(Action{`1,`2,`3})
+- uid: XIV.EventSystem.IEvent`4.OnCompleted(System.Action{`1,`2,`3})
   name: OnCompleted(Action<P0, P1, P2>)
-  href: api/XIV.EventSystem.IEvent-4.html#XIV_EventSystem_IEvent_4_OnCompleted_Action__1__2__3__
-  commentId: M:XIV.EventSystem.IEvent`4.OnCompleted(Action{`1,`2,`3})
+  href: api/XIV.EventSystem.IEvent-4.html#XIV_EventSystem_IEvent_4_OnCompleted_System_Action__1__2__3__
+  commentId: M:XIV.EventSystem.IEvent`4.OnCompleted(System.Action{`1,`2,`3})
   name.vb: OnCompleted(Action(Of P0, P1, P2))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2>.OnCompleted(Action<P0, P1, P2>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2).OnCompleted(Action(Of P0, P1, P2))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2>.OnCompleted(System.Action<P0, P1, P2>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2).OnCompleted(System.Action(Of P0, P1, P2))
   nameWithType: IEvent<T, P0, P1, P2>.OnCompleted(Action<P0, P1, P2>)
   nameWithType.vb: IEvent(Of T, P0, P1, P2).OnCompleted(Action(Of P0, P1, P2))
 - uid: XIV.EventSystem.IEvent`4.OnCompleted*
@@ -7300,13 +7300,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3)
   nameWithType: IEvent<T, P0, P1, P2, P3>
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3)
-- uid: XIV.EventSystem.IEvent`5.OnCanceled(Action{`1,`2,`3,`4})
+- uid: XIV.EventSystem.IEvent`5.OnCanceled(System.Action{`1,`2,`3,`4})
   name: OnCanceled(Action<P0, P1, P2, P3>)
-  href: api/XIV.EventSystem.IEvent-5.html#XIV_EventSystem_IEvent_5_OnCanceled_Action__1__2__3__4__
-  commentId: M:XIV.EventSystem.IEvent`5.OnCanceled(Action{`1,`2,`3,`4})
+  href: api/XIV.EventSystem.IEvent-5.html#XIV_EventSystem_IEvent_5_OnCanceled_System_Action__1__2__3__4__
+  commentId: M:XIV.EventSystem.IEvent`5.OnCanceled(System.Action{`1,`2,`3,`4})
   name.vb: OnCanceled(Action(Of P0, P1, P2, P3))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3>.OnCanceled(Action<P0, P1, P2, P3>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3).OnCanceled(Action(Of P0, P1, P2, P3))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3>.OnCanceled(System.Action<P0, P1, P2, P3>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3).OnCanceled(System.Action(Of P0, P1, P2, P3))
   nameWithType: IEvent<T, P0, P1, P2, P3>.OnCanceled(Action<P0, P1, P2, P3>)
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3).OnCanceled(Action(Of P0, P1, P2, P3))
 - uid: XIV.EventSystem.IEvent`5.OnCanceled*
@@ -7318,13 +7318,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3).OnCanceled
   nameWithType: IEvent<T, P0, P1, P2, P3>.OnCanceled
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3).OnCanceled
-- uid: XIV.EventSystem.IEvent`5.OnCompleted(Action{`1,`2,`3,`4})
+- uid: XIV.EventSystem.IEvent`5.OnCompleted(System.Action{`1,`2,`3,`4})
   name: OnCompleted(Action<P0, P1, P2, P3>)
-  href: api/XIV.EventSystem.IEvent-5.html#XIV_EventSystem_IEvent_5_OnCompleted_Action__1__2__3__4__
-  commentId: M:XIV.EventSystem.IEvent`5.OnCompleted(Action{`1,`2,`3,`4})
+  href: api/XIV.EventSystem.IEvent-5.html#XIV_EventSystem_IEvent_5_OnCompleted_System_Action__1__2__3__4__
+  commentId: M:XIV.EventSystem.IEvent`5.OnCompleted(System.Action{`1,`2,`3,`4})
   name.vb: OnCompleted(Action(Of P0, P1, P2, P3))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3>.OnCompleted(Action<P0, P1, P2, P3>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3).OnCompleted(Action(Of P0, P1, P2, P3))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3>.OnCompleted(System.Action<P0, P1, P2, P3>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3).OnCompleted(System.Action(Of P0, P1, P2, P3))
   nameWithType: IEvent<T, P0, P1, P2, P3>.OnCompleted(Action<P0, P1, P2, P3>)
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3).OnCompleted(Action(Of P0, P1, P2, P3))
 - uid: XIV.EventSystem.IEvent`5.OnCompleted*
@@ -7345,13 +7345,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3, P4)
   nameWithType: IEvent<T, P0, P1, P2, P3, P4>
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3, P4)
-- uid: XIV.EventSystem.IEvent`6.OnCanceled(Action{`1,`2,`3,`4,`5})
+- uid: XIV.EventSystem.IEvent`6.OnCanceled(System.Action{`1,`2,`3,`4,`5})
   name: OnCanceled(Action<P0, P1, P2, P3, P4>)
-  href: api/XIV.EventSystem.IEvent-6.html#XIV_EventSystem_IEvent_6_OnCanceled_Action__1__2__3__4__5__
-  commentId: M:XIV.EventSystem.IEvent`6.OnCanceled(Action{`1,`2,`3,`4,`5})
+  href: api/XIV.EventSystem.IEvent-6.html#XIV_EventSystem_IEvent_6_OnCanceled_System_Action__1__2__3__4__5__
+  commentId: M:XIV.EventSystem.IEvent`6.OnCanceled(System.Action{`1,`2,`3,`4,`5})
   name.vb: OnCanceled(Action(Of P0, P1, P2, P3, P4))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3, P4>.OnCanceled(Action<P0, P1, P2, P3, P4>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3, P4).OnCanceled(Action(Of P0, P1, P2, P3, P4))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3, P4>.OnCanceled(System.Action<P0, P1, P2, P3, P4>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3, P4).OnCanceled(System.Action(Of P0, P1, P2, P3, P4))
   nameWithType: IEvent<T, P0, P1, P2, P3, P4>.OnCanceled(Action<P0, P1, P2, P3, P4>)
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3, P4).OnCanceled(Action(Of P0, P1, P2, P3, P4))
 - uid: XIV.EventSystem.IEvent`6.OnCanceled*
@@ -7363,13 +7363,13 @@ references:
   fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3, P4).OnCanceled
   nameWithType: IEvent<T, P0, P1, P2, P3, P4>.OnCanceled
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3, P4).OnCanceled
-- uid: XIV.EventSystem.IEvent`6.OnCompleted(Action{`1,`2,`3,`4,`5})
+- uid: XIV.EventSystem.IEvent`6.OnCompleted(System.Action{`1,`2,`3,`4,`5})
   name: OnCompleted(Action<P0, P1, P2, P3, P4>)
-  href: api/XIV.EventSystem.IEvent-6.html#XIV_EventSystem_IEvent_6_OnCompleted_Action__1__2__3__4__5__
-  commentId: M:XIV.EventSystem.IEvent`6.OnCompleted(Action{`1,`2,`3,`4,`5})
+  href: api/XIV.EventSystem.IEvent-6.html#XIV_EventSystem_IEvent_6_OnCompleted_System_Action__1__2__3__4__5__
+  commentId: M:XIV.EventSystem.IEvent`6.OnCompleted(System.Action{`1,`2,`3,`4,`5})
   name.vb: OnCompleted(Action(Of P0, P1, P2, P3, P4))
-  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3, P4>.OnCompleted(Action<P0, P1, P2, P3, P4>)
-  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3, P4).OnCompleted(Action(Of P0, P1, P2, P3, P4))
+  fullName: XIV.EventSystem.IEvent<T, P0, P1, P2, P3, P4>.OnCompleted(System.Action<P0, P1, P2, P3, P4>)
+  fullName.vb: XIV.EventSystem.IEvent(Of T, P0, P1, P2, P3, P4).OnCompleted(System.Action(Of P0, P1, P2, P3, P4))
   nameWithType: IEvent<T, P0, P1, P2, P3, P4>.OnCompleted(Action<P0, P1, P2, P3, P4>)
   nameWithType.vb: IEvent(Of T, P0, P1, P2, P3, P4).OnCompleted(Action(Of P0, P1, P2, P3, P4))
 - uid: XIV.EventSystem.IEvent`6.OnCompleted*
@@ -7832,11 +7832,11 @@ references:
   fullName.vb: XIV.PoolSystem.XIVPoolSystem.GetItem(Of T)()
   nameWithType: XIVPoolSystem.GetItem<T>()
   nameWithType.vb: XIVPoolSystem.GetItem(Of T)()
-- uid: XIV.PoolSystem.XIVPoolSystem.HasPool(Type)
+- uid: XIV.PoolSystem.XIVPoolSystem.HasPool(System.Type)
   name: HasPool(Type)
-  href: api/XIV.PoolSystem.XIVPoolSystem.html#XIV_PoolSystem_XIVPoolSystem_HasPool_Type_
-  commentId: M:XIV.PoolSystem.XIVPoolSystem.HasPool(Type)
-  fullName: XIV.PoolSystem.XIVPoolSystem.HasPool(Type)
+  href: api/XIV.PoolSystem.XIVPoolSystem.html#XIV_PoolSystem_XIVPoolSystem_HasPool_System_Type_
+  commentId: M:XIV.PoolSystem.XIVPoolSystem.HasPool(System.Type)
+  fullName: XIV.PoolSystem.XIVPoolSystem.HasPool(System.Type)
   nameWithType: XIVPoolSystem.HasPool(Type)
 - uid: XIV.PoolSystem.XIVPoolSystem.HasPool*
   name: HasPool
@@ -7877,13 +7877,13 @@ references:
   isSpec: "True"
   fullName: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction
   nameWithType: XIVPoolSystem.SetOnGetAction
-- uid: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction``1(Action{``0})
+- uid: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction``1(System.Action{``0})
   name: SetOnGetAction<T>(Action<T>)
-  href: api/XIV.PoolSystem.XIVPoolSystem.html#XIV_PoolSystem_XIVPoolSystem_SetOnGetAction__1_Action___0__
-  commentId: M:XIV.PoolSystem.XIVPoolSystem.SetOnGetAction``1(Action{``0})
+  href: api/XIV.PoolSystem.XIVPoolSystem.html#XIV_PoolSystem_XIVPoolSystem_SetOnGetAction__1_System_Action___0__
+  commentId: M:XIV.PoolSystem.XIVPoolSystem.SetOnGetAction``1(System.Action{``0})
   name.vb: SetOnGetAction(Of T)(Action(Of T))
-  fullName: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction<T>(Action<T>)
-  fullName.vb: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction(Of T)(Action(Of T))
+  fullName: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction<T>(System.Action<T>)
+  fullName.vb: XIV.PoolSystem.XIVPoolSystem.SetOnGetAction(Of T)(System.Action(Of T))
   nameWithType: XIVPoolSystem.SetOnGetAction<T>(Action<T>)
   nameWithType.vb: XIVPoolSystem.SetOnGetAction(Of T)(Action(Of T))
 - uid: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction*
@@ -7893,13 +7893,13 @@ references:
   isSpec: "True"
   fullName: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction
   nameWithType: XIVPoolSystem.SetOnReleaseAction
-- uid: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction``1(Action{``0})
+- uid: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction``1(System.Action{``0})
   name: SetOnReleaseAction<T>(Action<T>)
-  href: api/XIV.PoolSystem.XIVPoolSystem.html#XIV_PoolSystem_XIVPoolSystem_SetOnReleaseAction__1_Action___0__
-  commentId: M:XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction``1(Action{``0})
+  href: api/XIV.PoolSystem.XIVPoolSystem.html#XIV_PoolSystem_XIVPoolSystem_SetOnReleaseAction__1_System_Action___0__
+  commentId: M:XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction``1(System.Action{``0})
   name.vb: SetOnReleaseAction(Of T)(Action(Of T))
-  fullName: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction<T>(Action<T>)
-  fullName.vb: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction(Of T)(Action(Of T))
+  fullName: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction<T>(System.Action<T>)
+  fullName.vb: XIV.PoolSystem.XIVPoolSystem.SetOnReleaseAction(Of T)(System.Action(Of T))
   nameWithType: XIVPoolSystem.SetOnReleaseAction<T>(Action<T>)
   nameWithType.vb: XIVPoolSystem.SetOnReleaseAction(Of T)(Action(Of T))
 - uid: XIV.PoolSystem.XIVPool`1
@@ -7911,22 +7911,22 @@ references:
   fullName.vb: XIV.PoolSystem.XIVPool(Of T)
   nameWithType: XIVPool<T>
   nameWithType.vb: XIVPool(Of T)
-- uid: XIV.PoolSystem.XIVPool`1.#ctor(Func{`0})
+- uid: XIV.PoolSystem.XIVPool`1.#ctor(System.Func{`0})
   name: XIVPool(Func<T>)
-  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1__ctor_Func__0__
-  commentId: M:XIV.PoolSystem.XIVPool`1.#ctor(Func{`0})
+  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1__ctor_System_Func__0__
+  commentId: M:XIV.PoolSystem.XIVPool`1.#ctor(System.Func{`0})
   name.vb: New(Func(Of T))
-  fullName: XIV.PoolSystem.XIVPool<T>.XIVPool(Func<T>)
-  fullName.vb: XIV.PoolSystem.XIVPool(Of T).New(Func(Of T))
+  fullName: XIV.PoolSystem.XIVPool<T>.XIVPool(System.Func<T>)
+  fullName.vb: XIV.PoolSystem.XIVPool(Of T).New(System.Func(Of T))
   nameWithType: XIVPool<T>.XIVPool(Func<T>)
   nameWithType.vb: XIVPool(Of T).New(Func(Of T))
-- uid: XIV.PoolSystem.XIVPool`1.#ctor(System.Int32,Func{`0})
+- uid: XIV.PoolSystem.XIVPool`1.#ctor(System.Int32,System.Func{`0})
   name: XIVPool(int, Func<T>)
-  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1__ctor_System_Int32_Func__0__
-  commentId: M:XIV.PoolSystem.XIVPool`1.#ctor(System.Int32,Func{`0})
+  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1__ctor_System_Int32_System_Func__0__
+  commentId: M:XIV.PoolSystem.XIVPool`1.#ctor(System.Int32,System.Func{`0})
   name.vb: New(Integer, Func(Of T))
-  fullName: XIV.PoolSystem.XIVPool<T>.XIVPool(int, Func<T>)
-  fullName.vb: XIV.PoolSystem.XIVPool(Of T).New(Integer, Func(Of T))
+  fullName: XIV.PoolSystem.XIVPool<T>.XIVPool(int, System.Func<T>)
+  fullName.vb: XIV.PoolSystem.XIVPool(Of T).New(Integer, System.Func(Of T))
   nameWithType: XIVPool<T>.XIVPool(int, Func<T>)
   nameWithType.vb: XIVPool(Of T).New(Integer, Func(Of T))
 - uid: XIV.PoolSystem.XIVPool`1.#ctor*
@@ -7973,13 +7973,13 @@ references:
   fullName.vb: XIV.PoolSystem.XIVPool(Of T).Release
   nameWithType: XIVPool<T>.Release
   nameWithType.vb: XIVPool(Of T).Release
-- uid: XIV.PoolSystem.XIVPool`1.SetOnGetItem(Action{`0})
+- uid: XIV.PoolSystem.XIVPool`1.SetOnGetItem(System.Action{`0})
   name: SetOnGetItem(Action<T>)
-  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1_SetOnGetItem_Action__0__
-  commentId: M:XIV.PoolSystem.XIVPool`1.SetOnGetItem(Action{`0})
+  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1_SetOnGetItem_System_Action__0__
+  commentId: M:XIV.PoolSystem.XIVPool`1.SetOnGetItem(System.Action{`0})
   name.vb: SetOnGetItem(Action(Of T))
-  fullName: XIV.PoolSystem.XIVPool<T>.SetOnGetItem(Action<T>)
-  fullName.vb: XIV.PoolSystem.XIVPool(Of T).SetOnGetItem(Action(Of T))
+  fullName: XIV.PoolSystem.XIVPool<T>.SetOnGetItem(System.Action<T>)
+  fullName.vb: XIV.PoolSystem.XIVPool(Of T).SetOnGetItem(System.Action(Of T))
   nameWithType: XIVPool<T>.SetOnGetItem(Action<T>)
   nameWithType.vb: XIVPool(Of T).SetOnGetItem(Action(Of T))
 - uid: XIV.PoolSystem.XIVPool`1.SetOnGetItem*
@@ -7991,13 +7991,13 @@ references:
   fullName.vb: XIV.PoolSystem.XIVPool(Of T).SetOnGetItem
   nameWithType: XIVPool<T>.SetOnGetItem
   nameWithType.vb: XIVPool(Of T).SetOnGetItem
-- uid: XIV.PoolSystem.XIVPool`1.SetOnReleaseItem(Action{`0})
+- uid: XIV.PoolSystem.XIVPool`1.SetOnReleaseItem(System.Action{`0})
   name: SetOnReleaseItem(Action<T>)
-  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1_SetOnReleaseItem_Action__0__
-  commentId: M:XIV.PoolSystem.XIVPool`1.SetOnReleaseItem(Action{`0})
+  href: api/XIV.PoolSystem.XIVPool-1.html#XIV_PoolSystem_XIVPool_1_SetOnReleaseItem_System_Action__0__
+  commentId: M:XIV.PoolSystem.XIVPool`1.SetOnReleaseItem(System.Action{`0})
   name.vb: SetOnReleaseItem(Action(Of T))
-  fullName: XIV.PoolSystem.XIVPool<T>.SetOnReleaseItem(Action<T>)
-  fullName.vb: XIV.PoolSystem.XIVPool(Of T).SetOnReleaseItem(Action(Of T))
+  fullName: XIV.PoolSystem.XIVPool<T>.SetOnReleaseItem(System.Action<T>)
+  fullName.vb: XIV.PoolSystem.XIVPool(Of T).SetOnReleaseItem(System.Action(Of T))
   nameWithType: XIVPool<T>.SetOnReleaseItem(Action<T>)
   nameWithType.vb: XIVPool(Of T).SetOnReleaseItem(Action(Of T))
 - uid: XIV.PoolSystem.XIVPool`1.SetOnReleaseItem*
@@ -8249,13 +8249,13 @@ references:
   isSpec: "True"
   fullName: XIV.Spline.Utils.SplineUtils.NewCurveAtPosition
   nameWithType: SplineUtils.NewCurveAtPosition
-- uid: XIV.Spline.Utils.SplineUtils.RemoveCurve(IList{Vector3},System.Int32,Vector3[]@)
+- uid: XIV.Spline.Utils.SplineUtils.RemoveCurve(System.Collections.Generic.IList{Vector3},System.Int32,Vector3[]@)
   name: RemoveCurve(IList<Vector3>, int, out Vector3[])
-  href: api/XIV.Spline.Utils.SplineUtils.html#XIV_Spline_Utils_SplineUtils_RemoveCurve_IList_Vector3__System_Int32_Vector3____
-  commentId: M:XIV.Spline.Utils.SplineUtils.RemoveCurve(IList{Vector3},System.Int32,Vector3[]@)
+  href: api/XIV.Spline.Utils.SplineUtils.html#XIV_Spline_Utils_SplineUtils_RemoveCurve_System_Collections_Generic_IList_Vector3__System_Int32_Vector3____
+  commentId: M:XIV.Spline.Utils.SplineUtils.RemoveCurve(System.Collections.Generic.IList{Vector3},System.Int32,Vector3[]@)
   name.vb: RemoveCurve(IList(Of Vector3), Integer, Vector3())
-  fullName: XIV.Spline.Utils.SplineUtils.RemoveCurve(IList<Vector3>, int, out Vector3[])
-  fullName.vb: XIV.Spline.Utils.SplineUtils.RemoveCurve(IList(Of Vector3), Integer, Vector3())
+  fullName: XIV.Spline.Utils.SplineUtils.RemoveCurve(System.Collections.Generic.IList<Vector3>, int, out Vector3[])
+  fullName.vb: XIV.Spline.Utils.SplineUtils.RemoveCurve(System.Collections.Generic.IList(Of Vector3), Integer, Vector3())
   nameWithType: SplineUtils.RemoveCurve(IList<Vector3>, int, out Vector3[])
   nameWithType.vb: SplineUtils.RemoveCurve(IList(Of Vector3), Integer, Vector3())
 - uid: XIV.Spline.Utils.SplineUtils.RemoveCurve*
@@ -8568,13 +8568,13 @@ references:
   fullName.vb: XIV.UpgradeSystem.DataStructures.CustomSerializedList(Of T).New()
   nameWithType: CustomSerializedList<T>.CustomSerializedList()
   nameWithType.vb: CustomSerializedList(Of T).New()
-- uid: XIV.UpgradeSystem.DataStructures.CustomSerializedList`1.#ctor(List{`0})
+- uid: XIV.UpgradeSystem.DataStructures.CustomSerializedList`1.#ctor(System.Collections.Generic.List{`0})
   name: CustomSerializedList(List<T>)
-  href: api/XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html#XIV_UpgradeSystem_DataStructures_CustomSerializedList_1__ctor_List__0__
-  commentId: M:XIV.UpgradeSystem.DataStructures.CustomSerializedList`1.#ctor(List{`0})
+  href: api/XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html#XIV_UpgradeSystem_DataStructures_CustomSerializedList_1__ctor_System_Collections_Generic_List__0__
+  commentId: M:XIV.UpgradeSystem.DataStructures.CustomSerializedList`1.#ctor(System.Collections.Generic.List{`0})
   name.vb: New(List(Of T))
-  fullName: XIV.UpgradeSystem.DataStructures.CustomSerializedList<T>.CustomSerializedList(List<T>)
-  fullName.vb: XIV.UpgradeSystem.DataStructures.CustomSerializedList(Of T).New(List(Of T))
+  fullName: XIV.UpgradeSystem.DataStructures.CustomSerializedList<T>.CustomSerializedList(System.Collections.Generic.List<T>)
+  fullName.vb: XIV.UpgradeSystem.DataStructures.CustomSerializedList(Of T).New(System.Collections.Generic.List(Of T))
   nameWithType: CustomSerializedList<T>.CustomSerializedList(List<T>)
   nameWithType.vb: CustomSerializedList(Of T).New(List(Of T))
 - uid: XIV.UpgradeSystem.DataStructures.CustomSerializedList`1.#ctor*
@@ -8789,13 +8789,13 @@ references:
   commentId: T:XIV.UpgradeSystem.Examples.Enemy
   fullName: XIV.UpgradeSystem.Examples.Enemy
   nameWithType: Enemy
-- uid: XIV.UpgradeSystem.Examples.Enemy.TakeDamage(System.Single,Action)
+- uid: XIV.UpgradeSystem.Examples.Enemy.TakeDamage(System.Single,System.Action)
   name: TakeDamage(float, Action)
-  href: api/XIV.UpgradeSystem.Examples.Enemy.html#XIV_UpgradeSystem_Examples_Enemy_TakeDamage_System_Single_Action_
-  commentId: M:XIV.UpgradeSystem.Examples.Enemy.TakeDamage(System.Single,Action)
+  href: api/XIV.UpgradeSystem.Examples.Enemy.html#XIV_UpgradeSystem_Examples_Enemy_TakeDamage_System_Single_System_Action_
+  commentId: M:XIV.UpgradeSystem.Examples.Enemy.TakeDamage(System.Single,System.Action)
   name.vb: TakeDamage(Single, Action)
-  fullName: XIV.UpgradeSystem.Examples.Enemy.TakeDamage(float, Action)
-  fullName.vb: XIV.UpgradeSystem.Examples.Enemy.TakeDamage(Single, Action)
+  fullName: XIV.UpgradeSystem.Examples.Enemy.TakeDamage(float, System.Action)
+  fullName.vb: XIV.UpgradeSystem.Examples.Enemy.TakeDamage(Single, System.Action)
   nameWithType: Enemy.TakeDamage(float, Action)
   nameWithType.vb: Enemy.TakeDamage(Single, Action)
 - uid: XIV.UpgradeSystem.Examples.Enemy.TakeDamage*
@@ -9028,13 +9028,13 @@ references:
   fullName.vb: XIV.UpgradeSystem.IUpgradeDB(Of TUpgrade)
   nameWithType: IUpgradeDB<TUpgrade>
   nameWithType.vb: IUpgradeDB(Of TUpgrade)
-- uid: XIV.UpgradeSystem.IUpgradeDB`1.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{`0},IList{XIV.UpgradeSystem.IUpgrade{`0}}@)
+- uid: XIV.UpgradeSystem.IUpgradeDB`1.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{`0},System.Collections.Generic.IList{XIV.UpgradeSystem.IUpgrade{`0}}@)
   name: TryGetAvailables(IUpgradeContainer<TUpgrade>, out IList<IUpgrade<TUpgrade>>)
-  href: api/XIV.UpgradeSystem.IUpgradeDB-1.html#XIV_UpgradeSystem_IUpgradeDB_1_TryGetAvailables_XIV_UpgradeSystem_IUpgradeContainer__0__IList_XIV_UpgradeSystem_IUpgrade__0____
-  commentId: M:XIV.UpgradeSystem.IUpgradeDB`1.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{`0},IList{XIV.UpgradeSystem.IUpgrade{`0}}@)
+  href: api/XIV.UpgradeSystem.IUpgradeDB-1.html#XIV_UpgradeSystem_IUpgradeDB_1_TryGetAvailables_XIV_UpgradeSystem_IUpgradeContainer__0__System_Collections_Generic_IList_XIV_UpgradeSystem_IUpgrade__0____
+  commentId: M:XIV.UpgradeSystem.IUpgradeDB`1.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{`0},System.Collections.Generic.IList{XIV.UpgradeSystem.IUpgrade{`0}}@)
   name.vb: TryGetAvailables(IUpgradeContainer(Of TUpgrade), IList(Of IUpgrade(Of TUpgrade)))
-  fullName: XIV.UpgradeSystem.IUpgradeDB<TUpgrade>.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer<TUpgrade>, out IList<XIV.UpgradeSystem.IUpgrade<TUpgrade>>)
-  fullName.vb: XIV.UpgradeSystem.IUpgradeDB(Of TUpgrade).TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer(Of TUpgrade), IList(Of XIV.UpgradeSystem.IUpgrade(Of TUpgrade)))
+  fullName: XIV.UpgradeSystem.IUpgradeDB<TUpgrade>.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer<TUpgrade>, out System.Collections.Generic.IList<XIV.UpgradeSystem.IUpgrade<TUpgrade>>)
+  fullName.vb: XIV.UpgradeSystem.IUpgradeDB(Of TUpgrade).TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer(Of TUpgrade), System.Collections.Generic.IList(Of XIV.UpgradeSystem.IUpgrade(Of TUpgrade)))
   nameWithType: IUpgradeDB<TUpgrade>.TryGetAvailables(IUpgradeContainer<TUpgrade>, out IList<IUpgrade<TUpgrade>>)
   nameWithType.vb: IUpgradeDB(Of TUpgrade).TryGetAvailables(IUpgradeContainer(Of TUpgrade), IList(Of IUpgrade(Of TUpgrade)))
 - uid: XIV.UpgradeSystem.IUpgradeDB`1.TryGetAvailables*
@@ -9339,13 +9339,13 @@ references:
   isSpec: "True"
   fullName: XIV.UpgradeSystem.Integration.UpgradeDBSO.GetUpgrades
   nameWithType: UpgradeDBSO.GetUpgrades
-- uid: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{XIV.UpgradeSystem.Examples.PlayerUpgrade},IList{XIV.UpgradeSystem.IUpgrade{XIV.UpgradeSystem.Examples.PlayerUpgrade}}@)
+- uid: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{XIV.UpgradeSystem.Examples.PlayerUpgrade},System.Collections.Generic.IList{XIV.UpgradeSystem.IUpgrade{XIV.UpgradeSystem.Examples.PlayerUpgrade}}@)
   name: TryGetAvailables(IUpgradeContainer<PlayerUpgrade>, out IList<IUpgrade<PlayerUpgrade>>)
-  href: api/XIV.UpgradeSystem.Integration.UpgradeDBSO.html#XIV_UpgradeSystem_Integration_UpgradeDBSO_TryGetAvailables_XIV_UpgradeSystem_IUpgradeContainer_XIV_UpgradeSystem_Examples_PlayerUpgrade__IList_XIV_UpgradeSystem_IUpgrade_XIV_UpgradeSystem_Examples_PlayerUpgrade____
-  commentId: M:XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{XIV.UpgradeSystem.Examples.PlayerUpgrade},IList{XIV.UpgradeSystem.IUpgrade{XIV.UpgradeSystem.Examples.PlayerUpgrade}}@)
+  href: api/XIV.UpgradeSystem.Integration.UpgradeDBSO.html#XIV_UpgradeSystem_Integration_UpgradeDBSO_TryGetAvailables_XIV_UpgradeSystem_IUpgradeContainer_XIV_UpgradeSystem_Examples_PlayerUpgrade__System_Collections_Generic_IList_XIV_UpgradeSystem_IUpgrade_XIV_UpgradeSystem_Examples_PlayerUpgrade____
+  commentId: M:XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer{XIV.UpgradeSystem.Examples.PlayerUpgrade},System.Collections.Generic.IList{XIV.UpgradeSystem.IUpgrade{XIV.UpgradeSystem.Examples.PlayerUpgrade}}@)
   name.vb: TryGetAvailables(IUpgradeContainer(Of PlayerUpgrade), IList(Of IUpgrade(Of PlayerUpgrade)))
-  fullName: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer<XIV.UpgradeSystem.Examples.PlayerUpgrade>, out IList<XIV.UpgradeSystem.IUpgrade<XIV.UpgradeSystem.Examples.PlayerUpgrade>>)
-  fullName.vb: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer(Of XIV.UpgradeSystem.Examples.PlayerUpgrade), IList(Of XIV.UpgradeSystem.IUpgrade(Of XIV.UpgradeSystem.Examples.PlayerUpgrade)))
+  fullName: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer<XIV.UpgradeSystem.Examples.PlayerUpgrade>, out System.Collections.Generic.IList<XIV.UpgradeSystem.IUpgrade<XIV.UpgradeSystem.Examples.PlayerUpgrade>>)
+  fullName.vb: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables(XIV.UpgradeSystem.IUpgradeContainer(Of XIV.UpgradeSystem.Examples.PlayerUpgrade), System.Collections.Generic.IList(Of XIV.UpgradeSystem.IUpgrade(Of XIV.UpgradeSystem.Examples.PlayerUpgrade)))
   nameWithType: UpgradeDBSO.TryGetAvailables(IUpgradeContainer<PlayerUpgrade>, out IList<IUpgrade<PlayerUpgrade>>)
   nameWithType.vb: UpgradeDBSO.TryGetAvailables(IUpgradeContainer(Of PlayerUpgrade), IList(Of IUpgrade(Of PlayerUpgrade)))
 - uid: XIV.UpgradeSystem.Integration.UpgradeDBSO.TryGetAvailables*
@@ -10057,13 +10057,13 @@ references:
   isSpec: "True"
   fullName: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass
   nameWithType: AssetUtils.LoadAssetsByBaseClass
-- uid: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass``1(System.String,SearchOption)
+- uid: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass``1(System.String,System.IO.SearchOption)
   name: LoadAssetsByBaseClass<TAsset>(string, SearchOption)
-  href: api/XIV.XIVEditor.Utils.AssetUtils.html#XIV_XIVEditor_Utils_AssetUtils_LoadAssetsByBaseClass__1_System_String_SearchOption_
-  commentId: M:XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass``1(System.String,SearchOption)
+  href: api/XIV.XIVEditor.Utils.AssetUtils.html#XIV_XIVEditor_Utils_AssetUtils_LoadAssetsByBaseClass__1_System_String_System_IO_SearchOption_
+  commentId: M:XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass``1(System.String,System.IO.SearchOption)
   name.vb: LoadAssetsByBaseClass(Of TAsset)(String, SearchOption)
-  fullName: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass<TAsset>(string, SearchOption)
-  fullName.vb: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass(Of TAsset)(String, SearchOption)
+  fullName: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass<TAsset>(string, System.IO.SearchOption)
+  fullName.vb: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsByBaseClass(Of TAsset)(String, System.IO.SearchOption)
   nameWithType: AssetUtils.LoadAssetsByBaseClass<TAsset>(string, SearchOption)
   nameWithType.vb: AssetUtils.LoadAssetsByBaseClass(Of TAsset)(String, SearchOption)
 - uid: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType*
@@ -10073,13 +10073,13 @@ references:
   isSpec: "True"
   fullName: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType
   nameWithType: AssetUtils.LoadAssetsOfType
-- uid: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType``1(System.String,SearchOption)
+- uid: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType``1(System.String,System.IO.SearchOption)
   name: LoadAssetsOfType<TAsset>(string, SearchOption)
-  href: api/XIV.XIVEditor.Utils.AssetUtils.html#XIV_XIVEditor_Utils_AssetUtils_LoadAssetsOfType__1_System_String_SearchOption_
-  commentId: M:XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType``1(System.String,SearchOption)
+  href: api/XIV.XIVEditor.Utils.AssetUtils.html#XIV_XIVEditor_Utils_AssetUtils_LoadAssetsOfType__1_System_String_System_IO_SearchOption_
+  commentId: M:XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType``1(System.String,System.IO.SearchOption)
   name.vb: LoadAssetsOfType(Of TAsset)(String, SearchOption)
-  fullName: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType<TAsset>(string, SearchOption)
-  fullName.vb: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType(Of TAsset)(String, SearchOption)
+  fullName: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType<TAsset>(string, System.IO.SearchOption)
+  fullName.vb: XIV.XIVEditor.Utils.AssetUtils.LoadAssetsOfType(Of TAsset)(String, System.IO.SearchOption)
   nameWithType: AssetUtils.LoadAssetsOfType<TAsset>(string, SearchOption)
   nameWithType.vb: AssetUtils.LoadAssetsOfType(Of TAsset)(String, SearchOption)
 - uid: XIV.XIVEditor.Utils.AssetUtils.OpenInspectorForAsset(UnityEngine.Object)
@@ -10250,11 +10250,11 @@ references:
   fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.GetFieldValue(Of T)(String, Object)
   nameWithType: ReflectionUtils.GetFieldValue<T>(string, object)
   nameWithType.vb: ReflectionUtils.GetFieldValue(Of T)(String, Object)
-- uid: XIV.XIVEditor.Utils.ReflectionUtils.GetMethods(Type)
+- uid: XIV.XIVEditor.Utils.ReflectionUtils.GetMethods(System.Type)
   name: GetMethods(Type)
-  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_GetMethods_Type_
-  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.GetMethods(Type)
-  fullName: XIV.XIVEditor.Utils.ReflectionUtils.GetMethods(Type)
+  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_GetMethods_System_Type_
+  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.GetMethods(System.Type)
+  fullName: XIV.XIVEditor.Utils.ReflectionUtils.GetMethods(System.Type)
   nameWithType: ReflectionUtils.GetMethods(Type)
 - uid: XIV.XIVEditor.Utils.ReflectionUtils.GetMethods*
   name: GetMethods
@@ -10270,13 +10270,13 @@ references:
   isSpec: "True"
   fullName: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute
   nameWithType: ReflectionUtils.GetMethodsHasAttribute
-- uid: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute``1(Type)
+- uid: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute``1(System.Type)
   name: GetMethodsHasAttribute<TAttribute>(Type)
-  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_GetMethodsHasAttribute__1_Type_
-  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute``1(Type)
+  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_GetMethodsHasAttribute__1_System_Type_
+  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute``1(System.Type)
   name.vb: GetMethodsHasAttribute(Of TAttribute)(Type)
-  fullName: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute<TAttribute>(Type)
-  fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute(Of TAttribute)(Type)
+  fullName: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute<TAttribute>(System.Type)
+  fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.GetMethodsHasAttribute(Of TAttribute)(System.Type)
   nameWithType: ReflectionUtils.GetMethodsHasAttribute<TAttribute>(Type)
   nameWithType.vb: ReflectionUtils.GetMethodsHasAttribute(Of TAttribute)(Type)
 - uid: XIV.XIVEditor.Utils.ReflectionUtils.SetField(System.String,System.Object,System.Object)
@@ -10288,13 +10288,13 @@ references:
   fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.SetField(String, Object, Object)
   nameWithType: ReflectionUtils.SetField(string, object, object)
   nameWithType.vb: ReflectionUtils.SetField(String, Object, Object)
-- uid: XIV.XIVEditor.Utils.ReflectionUtils.SetField(System.String,System.Object,System.Object,BindingFlags)
+- uid: XIV.XIVEditor.Utils.ReflectionUtils.SetField(System.String,System.Object,System.Object,System.Reflection.BindingFlags)
   name: SetField(string, object, object, BindingFlags)
-  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_SetField_System_String_System_Object_System_Object_BindingFlags_
-  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.SetField(System.String,System.Object,System.Object,BindingFlags)
+  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_SetField_System_String_System_Object_System_Object_System_Reflection_BindingFlags_
+  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.SetField(System.String,System.Object,System.Object,System.Reflection.BindingFlags)
   name.vb: SetField(String, Object, Object, BindingFlags)
-  fullName: XIV.XIVEditor.Utils.ReflectionUtils.SetField(string, object, object, BindingFlags)
-  fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.SetField(String, Object, Object, BindingFlags)
+  fullName: XIV.XIVEditor.Utils.ReflectionUtils.SetField(string, object, object, System.Reflection.BindingFlags)
+  fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.SetField(String, Object, Object, System.Reflection.BindingFlags)
   nameWithType: ReflectionUtils.SetField(string, object, object, BindingFlags)
   nameWithType.vb: ReflectionUtils.SetField(String, Object, Object, BindingFlags)
 - uid: XIV.XIVEditor.Utils.ReflectionUtils.SetField*
@@ -10313,13 +10313,13 @@ references:
   fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(String, Object, Object)
   nameWithType: ReflectionUtils.SetProperty(string, object, object)
   nameWithType.vb: ReflectionUtils.SetProperty(String, Object, Object)
-- uid: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(System.String,System.Object,System.Object,BindingFlags)
+- uid: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(System.String,System.Object,System.Object,System.Reflection.BindingFlags)
   name: SetProperty(string, object, object, BindingFlags)
-  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_SetProperty_System_String_System_Object_System_Object_BindingFlags_
-  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(System.String,System.Object,System.Object,BindingFlags)
+  href: api/XIV.XIVEditor.Utils.ReflectionUtils.html#XIV_XIVEditor_Utils_ReflectionUtils_SetProperty_System_String_System_Object_System_Object_System_Reflection_BindingFlags_
+  commentId: M:XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(System.String,System.Object,System.Object,System.Reflection.BindingFlags)
   name.vb: SetProperty(String, Object, Object, BindingFlags)
-  fullName: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(string, object, object, BindingFlags)
-  fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(String, Object, Object, BindingFlags)
+  fullName: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(string, object, object, System.Reflection.BindingFlags)
+  fullName.vb: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty(String, Object, Object, System.Reflection.BindingFlags)
   nameWithType: ReflectionUtils.SetProperty(string, object, object, BindingFlags)
   nameWithType.vb: ReflectionUtils.SetProperty(String, Object, Object, BindingFlags)
 - uid: XIV.XIVEditor.Utils.ReflectionUtils.SetProperty*
@@ -10527,13 +10527,13 @@ references:
   commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase)
   fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase)
   nameWithType: InventoryExtensions.GetCountOf(Inventory, ItemBase)
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,Predicate{XIV_Packages.InventorySystem.ItemBase})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name: GetCountOf(Inventory, ItemBase, Predicate<ItemBase>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetCountOf_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_Predicate_XIV_Packages_InventorySystem_ItemBase__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,Predicate{XIV_Packages.InventorySystem.ItemBase})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetCountOf_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_System_Predicate_XIV_Packages_InventorySystem_ItemBase__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name.vb: GetCountOf(Inventory, ItemBase, Predicate(Of ItemBase))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Predicate<XIV_Packages.InventorySystem.ItemBase>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Predicate(Of XIV_Packages.InventorySystem.ItemBase))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, System.Predicate<XIV_Packages.InventorySystem.ItemBase>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, System.Predicate(Of XIV_Packages.InventorySystem.ItemBase))
   nameWithType: InventoryExtensions.GetCountOf(Inventory, ItemBase, Predicate<ItemBase>)
   nameWithType.vb: InventoryExtensions.GetCountOf(Inventory, ItemBase, Predicate(Of ItemBase))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf*
@@ -10552,13 +10552,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(Of T)(XIV_Packages.InventorySystem.Inventory)
   nameWithType: InventoryExtensions.GetCountOf<T>(Inventory)
   nameWithType.vb: InventoryExtensions.GetCountOf(Of T)(Inventory)
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf``1(XIV_Packages.InventorySystem.Inventory,Predicate{``0})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf``1(XIV_Packages.InventorySystem.Inventory,System.Predicate{``0})
   name: GetCountOf<T>(Inventory, Predicate<T>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetCountOf__1_XIV_Packages_InventorySystem_Inventory_Predicate___0__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf``1(XIV_Packages.InventorySystem.Inventory,Predicate{``0})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetCountOf__1_XIV_Packages_InventorySystem_Inventory_System_Predicate___0__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf``1(XIV_Packages.InventorySystem.Inventory,System.Predicate{``0})
   name.vb: GetCountOf(Of T)(Inventory, Predicate(Of T))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf<T>(XIV_Packages.InventorySystem.Inventory, Predicate<T>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(Of T)(XIV_Packages.InventorySystem.Inventory, Predicate(Of T))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf<T>(XIV_Packages.InventorySystem.Inventory, System.Predicate<T>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetCountOf(Of T)(XIV_Packages.InventorySystem.Inventory, System.Predicate(Of T))
   nameWithType: InventoryExtensions.GetCountOf<T>(Inventory, Predicate<T>)
   nameWithType.vb: InventoryExtensions.GetCountOf(Of T)(Inventory, Predicate(Of T))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetEmptyIndices(XIV_Packages.InventorySystem.Inventory,System.Int32[])
@@ -10590,13 +10590,13 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetEmptySlotCount
   nameWithType: InventoryExtensions.GetEmptySlotCount
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,Type,System.Int32[])
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,System.Type,System.Int32[])
   name: GetIndicesOf(Inventory, Type, int[])
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetIndicesOf_XIV_Packages_InventorySystem_Inventory_Type_System_Int32___
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,Type,System.Int32[])
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetIndicesOf_XIV_Packages_InventorySystem_Inventory_System_Type_System_Int32___
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,System.Type,System.Int32[])
   name.vb: GetIndicesOf(Inventory, Type, Integer())
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, Type, int[])
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, Type, Integer())
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, System.Type, int[])
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, System.Type, Integer())
   nameWithType: InventoryExtensions.GetIndicesOf(Inventory, Type, int[])
   nameWithType.vb: InventoryExtensions.GetIndicesOf(Inventory, Type, Integer())
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Int32[])
@@ -10608,13 +10608,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Integer())
   nameWithType: InventoryExtensions.GetIndicesOf(Inventory, ItemBase, int[])
   nameWithType.vb: InventoryExtensions.GetIndicesOf(Inventory, ItemBase, Integer())
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Int32[],Predicate{XIV_Packages.InventorySystem.ItemBase})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Int32[],System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name: GetIndicesOf(Inventory, ItemBase, int[], Predicate<ItemBase>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetIndicesOf_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_System_Int32___Predicate_XIV_Packages_InventorySystem_ItemBase__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Int32[],Predicate{XIV_Packages.InventorySystem.ItemBase})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetIndicesOf_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_System_Int32___System_Predicate_XIV_Packages_InventorySystem_ItemBase__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Int32[],System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name.vb: GetIndicesOf(Inventory, ItemBase, Integer(), Predicate(Of ItemBase))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, int[], Predicate<XIV_Packages.InventorySystem.ItemBase>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Integer(), Predicate(Of XIV_Packages.InventorySystem.ItemBase))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, int[], System.Predicate<XIV_Packages.InventorySystem.ItemBase>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Integer(), System.Predicate(Of XIV_Packages.InventorySystem.ItemBase))
   nameWithType: InventoryExtensions.GetIndicesOf(Inventory, ItemBase, int[], Predicate<ItemBase>)
   nameWithType.vb: InventoryExtensions.GetIndicesOf(Inventory, ItemBase, Integer(), Predicate(Of ItemBase))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf*
@@ -10633,13 +10633,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(Of T)(XIV_Packages.InventorySystem.Inventory, Integer())
   nameWithType: InventoryExtensions.GetIndicesOf<T>(Inventory, int[])
   nameWithType.vb: InventoryExtensions.GetIndicesOf(Of T)(Inventory, Integer())
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf``1(XIV_Packages.InventorySystem.Inventory,System.Int32[],Predicate{``0})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf``1(XIV_Packages.InventorySystem.Inventory,System.Int32[],System.Predicate{``0})
   name: GetIndicesOf<T>(Inventory, int[], Predicate<T>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetIndicesOf__1_XIV_Packages_InventorySystem_Inventory_System_Int32___Predicate___0__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf``1(XIV_Packages.InventorySystem.Inventory,System.Int32[],Predicate{``0})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetIndicesOf__1_XIV_Packages_InventorySystem_Inventory_System_Int32___System_Predicate___0__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf``1(XIV_Packages.InventorySystem.Inventory,System.Int32[],System.Predicate{``0})
   name.vb: GetIndicesOf(Of T)(Inventory, Integer(), Predicate(Of T))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf<T>(XIV_Packages.InventorySystem.Inventory, int[], Predicate<T>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(Of T)(XIV_Packages.InventorySystem.Inventory, Integer(), Predicate(Of T))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf<T>(XIV_Packages.InventorySystem.Inventory, int[], System.Predicate<T>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetIndicesOf(Of T)(XIV_Packages.InventorySystem.Inventory, Integer(), System.Predicate(Of T))
   nameWithType: InventoryExtensions.GetIndicesOf<T>(Inventory, int[], Predicate<T>)
   nameWithType.vb: InventoryExtensions.GetIndicesOf(Of T)(Inventory, Integer(), Predicate(Of T))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemHasMaxQuantity(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase)
@@ -10692,13 +10692,13 @@ references:
   commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase)
   fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase)
   nameWithType: InventoryExtensions.GetItemsOfType(Inventory, ItemBase)
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,Predicate{XIV_Packages.InventorySystem.ItemBase})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name: GetItemsOfType(Inventory, ItemBase, Predicate<ItemBase>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfType_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_Predicate_XIV_Packages_InventorySystem_ItemBase__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,Predicate{XIV_Packages.InventorySystem.ItemBase})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfType_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_System_Predicate_XIV_Packages_InventorySystem_ItemBase__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name.vb: GetItemsOfType(Inventory, ItemBase, Predicate(Of ItemBase))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Predicate<XIV_Packages.InventorySystem.ItemBase>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, Predicate(Of XIV_Packages.InventorySystem.ItemBase))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, System.Predicate<XIV_Packages.InventorySystem.ItemBase>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, System.Predicate(Of XIV_Packages.InventorySystem.ItemBase))
   nameWithType: InventoryExtensions.GetItemsOfType(Inventory, ItemBase, Predicate<ItemBase>)
   nameWithType.vb: InventoryExtensions.GetItemsOfType(Inventory, ItemBase, Predicate(Of ItemBase))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType*
@@ -10717,13 +10717,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, XIV_Packages.InventorySystem.ReadOnlyInventoryItem())
   nameWithType: InventoryExtensions.GetItemsOfTypeNonAlloc(Inventory, ItemBase, ReadOnlyInventoryItem[])
   nameWithType.vb: InventoryExtensions.GetItemsOfTypeNonAlloc(Inventory, ItemBase, ReadOnlyInventoryItem())
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],Predicate{XIV_Packages.InventorySystem.ItemBase})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name: GetItemsOfTypeNonAlloc(Inventory, ItemBase, ReadOnlyInventoryItem[], Predicate<ItemBase>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfTypeNonAlloc_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_XIV_Packages_InventorySystem_ReadOnlyInventoryItem___Predicate_XIV_Packages_InventorySystem_ItemBase__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],Predicate{XIV_Packages.InventorySystem.ItemBase})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfTypeNonAlloc_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ItemBase_XIV_Packages_InventorySystem_ReadOnlyInventoryItem___System_Predicate_XIV_Packages_InventorySystem_ItemBase__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ItemBase,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],System.Predicate{XIV_Packages.InventorySystem.ItemBase})
   name.vb: GetItemsOfTypeNonAlloc(Inventory, ItemBase, ReadOnlyInventoryItem(), Predicate(Of ItemBase))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, XIV_Packages.InventorySystem.ReadOnlyInventoryItem[], Predicate<XIV_Packages.InventorySystem.ItemBase>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, XIV_Packages.InventorySystem.ReadOnlyInventoryItem(), Predicate(Of XIV_Packages.InventorySystem.ItemBase))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, XIV_Packages.InventorySystem.ReadOnlyInventoryItem[], System.Predicate<XIV_Packages.InventorySystem.ItemBase>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ItemBase, XIV_Packages.InventorySystem.ReadOnlyInventoryItem(), System.Predicate(Of XIV_Packages.InventorySystem.ItemBase))
   nameWithType: InventoryExtensions.GetItemsOfTypeNonAlloc(Inventory, ItemBase, ReadOnlyInventoryItem[], Predicate<ItemBase>)
   nameWithType.vb: InventoryExtensions.GetItemsOfTypeNonAlloc(Inventory, ItemBase, ReadOnlyInventoryItem(), Predicate(Of ItemBase))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc*
@@ -10742,13 +10742,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(Of T)(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ReadOnlyInventoryItem())
   nameWithType: InventoryExtensions.GetItemsOfTypeNonAlloc<T>(Inventory, ReadOnlyInventoryItem[])
   nameWithType.vb: InventoryExtensions.GetItemsOfTypeNonAlloc(Of T)(Inventory, ReadOnlyInventoryItem())
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc``1(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],Predicate{``0})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc``1(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],System.Predicate{``0})
   name: GetItemsOfTypeNonAlloc<T>(Inventory, ReadOnlyInventoryItem[], Predicate<T>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfTypeNonAlloc__1_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ReadOnlyInventoryItem___Predicate___0__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc``1(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],Predicate{``0})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfTypeNonAlloc__1_XIV_Packages_InventorySystem_Inventory_XIV_Packages_InventorySystem_ReadOnlyInventoryItem___System_Predicate___0__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc``1(XIV_Packages.InventorySystem.Inventory,XIV_Packages.InventorySystem.ReadOnlyInventoryItem[],System.Predicate{``0})
   name.vb: GetItemsOfTypeNonAlloc(Of T)(Inventory, ReadOnlyInventoryItem(), Predicate(Of T))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc<T>(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ReadOnlyInventoryItem[], Predicate<T>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(Of T)(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ReadOnlyInventoryItem(), Predicate(Of T))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc<T>(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ReadOnlyInventoryItem[], System.Predicate<T>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfTypeNonAlloc(Of T)(XIV_Packages.InventorySystem.Inventory, XIV_Packages.InventorySystem.ReadOnlyInventoryItem(), System.Predicate(Of T))
   nameWithType: InventoryExtensions.GetItemsOfTypeNonAlloc<T>(Inventory, ReadOnlyInventoryItem[], Predicate<T>)
   nameWithType.vb: InventoryExtensions.GetItemsOfTypeNonAlloc(Of T)(Inventory, ReadOnlyInventoryItem(), Predicate(Of T))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType``1(XIV_Packages.InventorySystem.Inventory)
@@ -10760,13 +10760,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(Of T)(XIV_Packages.InventorySystem.Inventory)
   nameWithType: InventoryExtensions.GetItemsOfType<T>(Inventory)
   nameWithType.vb: InventoryExtensions.GetItemsOfType(Of T)(Inventory)
-- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType``1(XIV_Packages.InventorySystem.Inventory,Predicate{``0})
+- uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType``1(XIV_Packages.InventorySystem.Inventory,System.Predicate{``0})
   name: GetItemsOfType<T>(Inventory, Predicate<T>)
-  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfType__1_XIV_Packages_InventorySystem_Inventory_Predicate___0__
-  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType``1(XIV_Packages.InventorySystem.Inventory,Predicate{``0})
+  href: api/XIV_Packages.InventorySystem.Extensions.InventoryExtensions.html#XIV_Packages_InventorySystem_Extensions_InventoryExtensions_GetItemsOfType__1_XIV_Packages_InventorySystem_Inventory_System_Predicate___0__
+  commentId: M:XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType``1(XIV_Packages.InventorySystem.Inventory,System.Predicate{``0})
   name.vb: GetItemsOfType(Of T)(Inventory, Predicate(Of T))
-  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType<T>(XIV_Packages.InventorySystem.Inventory, Predicate<T>)
-  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(Of T)(XIV_Packages.InventorySystem.Inventory, Predicate(Of T))
+  fullName: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType<T>(XIV_Packages.InventorySystem.Inventory, System.Predicate<T>)
+  fullName.vb: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetItemsOfType(Of T)(XIV_Packages.InventorySystem.Inventory, System.Predicate(Of T))
   nameWithType: InventoryExtensions.GetItemsOfType<T>(Inventory, Predicate<T>)
   nameWithType.vb: InventoryExtensions.GetItemsOfType(Of T)(Inventory, Predicate(Of T))
 - uid: XIV_Packages.InventorySystem.Extensions.InventoryExtensions.GetOccupiedIndices(XIV_Packages.InventorySystem.Inventory,System.Int32[])
@@ -11140,13 +11140,13 @@ references:
   commentId: T:XIV_Packages.InventorySystem.InventoryChange
   fullName: XIV_Packages.InventorySystem.InventoryChange
   nameWithType: InventoryChange
-- uid: XIV_Packages.InventorySystem.InventoryChange.#ctor(IList{XIV_Packages.InventorySystem.InventoryItemChange},System.Int32,System.Int32)
+- uid: XIV_Packages.InventorySystem.InventoryChange.#ctor(System.Collections.Generic.IList{XIV_Packages.InventorySystem.InventoryItemChange},System.Int32,System.Int32)
   name: InventoryChange(IList<InventoryItemChange>, int, int)
-  href: api/XIV_Packages.InventorySystem.InventoryChange.html#XIV_Packages_InventorySystem_InventoryChange__ctor_IList_XIV_Packages_InventorySystem_InventoryItemChange__System_Int32_System_Int32_
-  commentId: M:XIV_Packages.InventorySystem.InventoryChange.#ctor(IList{XIV_Packages.InventorySystem.InventoryItemChange},System.Int32,System.Int32)
+  href: api/XIV_Packages.InventorySystem.InventoryChange.html#XIV_Packages_InventorySystem_InventoryChange__ctor_System_Collections_Generic_IList_XIV_Packages_InventorySystem_InventoryItemChange__System_Int32_System_Int32_
+  commentId: M:XIV_Packages.InventorySystem.InventoryChange.#ctor(System.Collections.Generic.IList{XIV_Packages.InventorySystem.InventoryItemChange},System.Int32,System.Int32)
   name.vb: New(IList(Of InventoryItemChange), Integer, Integer)
-  fullName: XIV_Packages.InventorySystem.InventoryChange.InventoryChange(IList<XIV_Packages.InventorySystem.InventoryItemChange>, int, int)
-  fullName.vb: XIV_Packages.InventorySystem.InventoryChange.New(IList(Of XIV_Packages.InventorySystem.InventoryItemChange), Integer, Integer)
+  fullName: XIV_Packages.InventorySystem.InventoryChange.InventoryChange(System.Collections.Generic.IList<XIV_Packages.InventorySystem.InventoryItemChange>, int, int)
+  fullName.vb: XIV_Packages.InventorySystem.InventoryChange.New(System.Collections.Generic.IList(Of XIV_Packages.InventorySystem.InventoryItemChange), Integer, Integer)
   nameWithType: InventoryChange.InventoryChange(IList<InventoryItemChange>, int, int)
   nameWithType.vb: InventoryChange.New(IList(Of InventoryItemChange), Integer, Integer)
 - uid: XIV_Packages.InventorySystem.InventoryChange.#ctor*
@@ -11583,13 +11583,13 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.RaiseEvent
   nameWithType: InventoryChangeChannelSO.RaiseEvent
-- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(Action{XIV_Packages.InventorySystem.InventoryChange})
+- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(System.Action{XIV_Packages.InventorySystem.InventoryChange})
   name: Register(Action<InventoryChange>)
-  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChangeChannelSO_Register_Action_XIV_Packages_InventorySystem_InventoryChange__
-  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(Action{XIV_Packages.InventorySystem.InventoryChange})
+  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChangeChannelSO_Register_System_Action_XIV_Packages_InventorySystem_InventoryChange__
+  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(System.Action{XIV_Packages.InventorySystem.InventoryChange})
   name.vb: Register(Action(Of InventoryChange))
-  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(Action<XIV_Packages.InventorySystem.InventoryChange>)
-  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(Action(Of XIV_Packages.InventorySystem.InventoryChange))
+  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(System.Action<XIV_Packages.InventorySystem.InventoryChange>)
+  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register(System.Action(Of XIV_Packages.InventorySystem.InventoryChange))
   nameWithType: InventoryChangeChannelSO.Register(Action<InventoryChange>)
   nameWithType.vb: InventoryChangeChannelSO.Register(Action(Of InventoryChange))
 - uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register*
@@ -11599,13 +11599,13 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Register
   nameWithType: InventoryChangeChannelSO.Register
-- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(Action{XIV_Packages.InventorySystem.InventoryChange})
+- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(System.Action{XIV_Packages.InventorySystem.InventoryChange})
   name: Unregister(Action<InventoryChange>)
-  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChangeChannelSO_Unregister_Action_XIV_Packages_InventorySystem_InventoryChange__
-  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(Action{XIV_Packages.InventorySystem.InventoryChange})
+  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChangeChannelSO_Unregister_System_Action_XIV_Packages_InventorySystem_InventoryChange__
+  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(System.Action{XIV_Packages.InventorySystem.InventoryChange})
   name.vb: Unregister(Action(Of InventoryChange))
-  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(Action<XIV_Packages.InventorySystem.InventoryChange>)
-  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(Action(Of XIV_Packages.InventorySystem.InventoryChange))
+  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(System.Action<XIV_Packages.InventorySystem.InventoryChange>)
+  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister(System.Action(Of XIV_Packages.InventorySystem.InventoryChange))
   nameWithType: InventoryChangeChannelSO.Unregister(Action<InventoryChange>)
   nameWithType.vb: InventoryChangeChannelSO.Unregister(Action(Of InventoryChange))
 - uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChangeChannelSO.Unregister*
@@ -11634,13 +11634,13 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.RaiseEvent
   nameWithType: InventoryChannelSO.RaiseEvent
-- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(Action{XIV_Packages.InventorySystem.Inventory})
+- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(System.Action{XIV_Packages.InventorySystem.Inventory})
   name: Register(Action<Inventory>)
-  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChannelSO_Register_Action_XIV_Packages_InventorySystem_Inventory__
-  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(Action{XIV_Packages.InventorySystem.Inventory})
+  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChannelSO_Register_System_Action_XIV_Packages_InventorySystem_Inventory__
+  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(System.Action{XIV_Packages.InventorySystem.Inventory})
   name.vb: Register(Action(Of Inventory))
-  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(Action<XIV_Packages.InventorySystem.Inventory>)
-  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(Action(Of XIV_Packages.InventorySystem.Inventory))
+  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(System.Action<XIV_Packages.InventorySystem.Inventory>)
+  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register(System.Action(Of XIV_Packages.InventorySystem.Inventory))
   nameWithType: InventoryChannelSO.Register(Action<Inventory>)
   nameWithType.vb: InventoryChannelSO.Register(Action(Of Inventory))
 - uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register*
@@ -11650,13 +11650,13 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Register
   nameWithType: InventoryChannelSO.Register
-- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(Action{XIV_Packages.InventorySystem.Inventory})
+- uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(System.Action{XIV_Packages.InventorySystem.Inventory})
   name: Unregister(Action<Inventory>)
-  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChannelSO_Unregister_Action_XIV_Packages_InventorySystem_Inventory__
-  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(Action{XIV_Packages.InventorySystem.Inventory})
+  href: api/XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.html#XIV_Packages_InventorySystem_ScriptableObjects_Channels_InventoryChannelSO_Unregister_System_Action_XIV_Packages_InventorySystem_Inventory__
+  commentId: M:XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(System.Action{XIV_Packages.InventorySystem.Inventory})
   name.vb: Unregister(Action(Of Inventory))
-  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(Action<XIV_Packages.InventorySystem.Inventory>)
-  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(Action(Of XIV_Packages.InventorySystem.Inventory))
+  fullName: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(System.Action<XIV_Packages.InventorySystem.Inventory>)
+  fullName.vb: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister(System.Action(Of XIV_Packages.InventorySystem.Inventory))
   nameWithType: InventoryChannelSO.Unregister(Action<Inventory>)
   nameWithType.vb: InventoryChannelSO.Unregister(Action(Of Inventory))
 - uid: XIV_Packages.InventorySystem.ScriptableObjects.Channels.InventoryChannelSO.Unregister*
@@ -11833,13 +11833,13 @@ references:
   fullName.vb: XIV_Packages.InventorySystem.TempArray(Of T)
   nameWithType: TempArray<T>
   nameWithType.vb: TempArray(Of T)
-- uid: XIV_Packages.InventorySystem.TempArray`1.#ctor(IList{`0})
+- uid: XIV_Packages.InventorySystem.TempArray`1.#ctor(System.Collections.Generic.IList{`0})
   name: TempArray(IList<T>)
-  href: api/XIV_Packages.InventorySystem.TempArray-1.html#XIV_Packages_InventorySystem_TempArray_1__ctor_IList__0__
-  commentId: M:XIV_Packages.InventorySystem.TempArray`1.#ctor(IList{`0})
+  href: api/XIV_Packages.InventorySystem.TempArray-1.html#XIV_Packages_InventorySystem_TempArray_1__ctor_System_Collections_Generic_IList__0__
+  commentId: M:XIV_Packages.InventorySystem.TempArray`1.#ctor(System.Collections.Generic.IList{`0})
   name.vb: New(IList(Of T))
-  fullName: XIV_Packages.InventorySystem.TempArray<T>.TempArray(IList<T>)
-  fullName.vb: XIV_Packages.InventorySystem.TempArray(Of T).New(IList(Of T))
+  fullName: XIV_Packages.InventorySystem.TempArray<T>.TempArray(System.Collections.Generic.IList<T>)
+  fullName.vb: XIV_Packages.InventorySystem.TempArray(Of T).New(System.Collections.Generic.IList(Of T))
   nameWithType: TempArray<T>.TempArray(IList<T>)
   nameWithType.vb: TempArray(Of T).New(IList(Of T))
 - uid: XIV_Packages.InventorySystem.TempArray`1.#ctor*
@@ -12329,11 +12329,11 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.RaiseEvent
   nameWithType: XIVChannelSO.RaiseEvent
-- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register(Action)
+- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register(System.Action)
   name: Register(Action)
-  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_Register_Action_
-  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register(Action)
-  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register(Action)
+  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_Register_System_Action_
+  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register(System.Action)
+  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register(System.Action)
   nameWithType: XIVChannelSO.Register(Action)
 - uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register*
   name: Register
@@ -12342,11 +12342,11 @@ references:
   isSpec: "True"
   fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Register
   nameWithType: XIVChannelSO.Register
-- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister(Action)
+- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister(System.Action)
   name: Unregister(Action)
-  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_Unregister_Action_
-  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister(Action)
-  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister(Action)
+  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_Unregister_System_Action_
+  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister(System.Action)
+  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister(System.Action)
   nameWithType: XIVChannelSO.Unregister(Action)
 - uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO.Unregister*
   name: Unregister
@@ -12381,13 +12381,13 @@ references:
   fullName.vb: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO(Of T).RaiseEvent
   nameWithType: XIVChannelSO<T>.RaiseEvent
   nameWithType.vb: XIVChannelSO(Of T).RaiseEvent
-- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Register(Action{`0})
+- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Register(System.Action{`0})
   name: Register(Action<T>)
-  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO-1.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_1_Register_Action__0__
-  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Register(Action{`0})
+  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO-1.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_1_Register_System_Action__0__
+  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Register(System.Action{`0})
   name.vb: Register(Action(Of T))
-  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO<T>.Register(Action<T>)
-  fullName.vb: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO(Of T).Register(Action(Of T))
+  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO<T>.Register(System.Action<T>)
+  fullName.vb: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO(Of T).Register(System.Action(Of T))
   nameWithType: XIVChannelSO<T>.Register(Action<T>)
   nameWithType.vb: XIVChannelSO(Of T).Register(Action(Of T))
 - uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Register*
@@ -12399,13 +12399,13 @@ references:
   fullName.vb: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO(Of T).Register
   nameWithType: XIVChannelSO<T>.Register
   nameWithType.vb: XIVChannelSO(Of T).Register
-- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Unregister(Action{`0})
+- uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Unregister(System.Action{`0})
   name: Unregister(Action<T>)
-  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO-1.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_1_Unregister_Action__0__
-  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Unregister(Action{`0})
+  href: api/XIV_Packages.ScriptableObjects.Channels.XIVChannelSO-1.html#XIV_Packages_ScriptableObjects_Channels_XIVChannelSO_1_Unregister_System_Action__0__
+  commentId: M:XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Unregister(System.Action{`0})
   name.vb: Unregister(Action(Of T))
-  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO<T>.Unregister(Action<T>)
-  fullName.vb: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO(Of T).Unregister(Action(Of T))
+  fullName: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO<T>.Unregister(System.Action<T>)
+  fullName.vb: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO(Of T).Unregister(System.Action(Of T))
   nameWithType: XIVChannelSO<T>.Unregister(Action<T>)
   nameWithType.vb: XIVChannelSO(Of T).Unregister(Action(Of T))
 - uid: XIV_Packages.ScriptableObjects.Channels.XIVChannelSO`1.Unregister*

@@ -91,14 +91,15 @@
 
   <div class="facts text-secondary">
     <dl><dt>Namespace</dt><dd><a class="xref" href="XIV.html">XIV</a>.<a class="xref" href="XIV.UpgradeSystem.html">UpgradeSystem</a>.<a class="xref" href="XIV.UpgradeSystem.Integration.html">Integration</a></dd></dl>
-  <dl><dt>Assembly</dt><dd>Examples.dll</dd></dl>
+  
   </div>
 
   <div class="markdown summary"></div>
   <div class="markdown conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public sealed class UpgradeDictionary : SerializedDictionaryBase&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;, ISerializationCallbackReceiver</code></pre>
+    <pre><code class="lang-csharp hljs">[Serializable]
+public sealed class UpgradeDictionary : SerializedDictionaryBase&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;, IDictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;, ICollection&lt;KeyValuePair&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;&gt;, IReadOnlyDictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;, IReadOnlyCollection&lt;KeyValuePair&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;&gt;, IEnumerable&lt;KeyValuePair&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;&gt;, IDictionary, ICollection, IEnumerable, IDeserializationCallback, ISerializable, ISerializationCallbackReceiver</code></pre>
   </div>
 
 
@@ -107,8 +108,9 @@
   <dl class="typelist inheritance">
     <dt>Inheritance</dt>
     <dd>
-      <div><span class="xref">object</span></div>
-      <div><a class="xref" href="XIV.UpgradeSystem.DataStructures.SerializedDictionaryBase-2.html">SerializedDictionaryBase</a>&lt;<span class="xref">string</span>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2">Dictionary</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;</div>
+      <div><a class="xref" href="XIV.UpgradeSystem.DataStructures.SerializedDictionaryBase-2.html">SerializedDictionaryBase</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;</div>
       <div><span class="xref">UpgradeDictionary</span></div>
     </dd>
   </dl>
@@ -116,6 +118,16 @@
   <dl class="typelist implements">
     <dt>Implements</dt>
     <dd>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.idictionary-2">IDictionary</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1">ICollection</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.keyvaluepair-2">KeyValuePair</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlydictionary-2">IReadOnlyDictionary</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlycollection-1">IReadOnlyCollection</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.keyvaluepair-2">KeyValuePair</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1">IEnumerable</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.keyvaluepair-2">KeyValuePair</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>, <a class="xref" href="XIV.UpgradeSystem.DataStructures.CustomSerializedList-1.html">CustomSerializedList</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Integration.UpgradeSO-1.html">UpgradeSO</a>&lt;<a class="xref" href="XIV.UpgradeSystem.Examples.PlayerUpgrade.html">PlayerUpgrade</a>&gt;&gt;&gt;&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.idictionary">IDictionary</a></div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.icollection">ICollection</a></div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable">IEnumerable</a></div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.runtime.serialization.ideserializationcallback">IDeserializationCallback</a></div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.runtime.serialization.iserializable">ISerializable</a></div>
       <div><span class="xref">ISerializationCallbackReceiver</span></div>
     </dd>
   </dl>
@@ -129,6 +141,81 @@
     </div>
     <div>
       <a class="xref" href="XIV.UpgradeSystem.DataStructures.SerializedDictionaryBase-2.html#XIV_UpgradeSystem_DataStructures_SerializedDictionaryBase_2_OnAfterDeserialize">SerializedDictionaryBase&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.OnAfterDeserialize()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.add">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Add(string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.clear">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Clear()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.containskey">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.ContainsKey(string)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.containsvalue">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.ContainsValue(CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.ensurecapacity">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.EnsureCapacity(int)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.getenumerator">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.GetEnumerator()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.getobjectdata">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.GetObjectData(SerializationInfo, StreamingContext)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.ondeserialization">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.OnDeserialization(object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.remove#system-collections-generic-dictionary-2-remove(-0)">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Remove(string)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.remove#system-collections-generic-dictionary-2-remove(-0-1@)">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Remove(string, out CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.trimexcess#system-collections-generic-dictionary-2-trimexcess">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.TrimExcess()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.trimexcess#system-collections-generic-dictionary-2-trimexcess(system-int32)">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.TrimExcess(int)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.tryadd">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.TryAdd(string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.trygetvalue">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.TryGetValue(string, out CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.comparer">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Comparer</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.count">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Count</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.item">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.this[string]</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.keys">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Keys</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2.values">Dictionary&lt;string, CustomSerializedList&lt;UpgradeSO&lt;PlayerUpgrade&gt;&gt;&gt;.Values</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)">object.Equals(object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)">object.Equals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode">object.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gettype">object.GetType()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.referenceequals">object.ReferenceEquals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.tostring">object.ToString()</a>
     </div>
   </dd></dl>
 
