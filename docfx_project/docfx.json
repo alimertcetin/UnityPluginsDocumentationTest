@@ -4,7 +4,7 @@
       "src": [
         {
           "files": [
-            "**.csproj"
+            "**.cs"
           ],
           "src": "../"
         }
@@ -17,7 +17,7 @@
       "noRestore": false,
       "namespaceLayout": "nested",
       "memberLayout": "samePage",
-      "enumSortOrder": "alphabetic",
+      "enumSortOrder": "declaringOrder",
       "allowCompilationErrors": true
     }
   ],
